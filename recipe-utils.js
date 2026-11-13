@@ -18,7 +18,9 @@ export function ingredientAmount(ingredient, factor = 1) {
 export function filterRecipes(recipes, {query = '', category = 'All recipes', favoritesOnly = false, favorites = new Set(), sort = 'original'} = {}) {
   const words = normalize(query).split(/\s+/).filter(Boolean);
   const result = recipes.filter(recipe => {
-    const haystack = normalize([recipe.title, recipe.category, ...(recipe.tags || []), ...recipe.ingredients.map(i => i.name)].join(' '));
+    const pairingFoods = (recipe.pairings?.items || []).map(item => item.food);
+    const fishKeywords = /salmon|trout|steelhead|whitefish|perch/i.test([recipe.title, ...pairingFoods].join(' ')) ? 'fish Lake Michigan' : '';
+    const haystack = normalize([recipe.title, recipe.category, ...(recipe.tags || []), ...recipe.ingredients.map(i => i.name), ...pairingFoods, fishKeywords].join(' '));
     return (category === 'All recipes' || recipe.category === category) && (!favoritesOnly || favorites.has(recipe.id)) && words.every(word => haystack.includes(word));
   });
   if (['az', 'name', 'a-z', 'alphabetical'].includes(sort)) result.sort((a, b) => a.title.localeCompare(b.title));

@@ -32,6 +32,11 @@ function recipeSummary(recipe) {
   return recipe.ingredients.slice(0, 4).map(i => i.name).join(' · ');
 }
 
+function renderPairings(recipe) {
+  if (!recipe.pairings?.items?.length) return '';
+  return `<section class="recipe-pairings" aria-label="${escapeHtml(recipe.pairings.heading)}"><p class="pairings-eyebrow">TRY IT THIS WAY</p><h3 class="detail-section-title">${escapeHtml(recipe.pairings.heading)}</h3><ul class="pairing-list">${recipe.pairings.items.map(item => `<li><strong class="pairing-food">${escapeHtml(item.food)}</strong><span class="pairing-note">${escapeHtml(item.note)}</span></li>`).join('')}</ul>${recipe.pairings.tip ? `<p class="pairing-tip">${escapeHtml(recipe.pairings.tip)}</p>` : ''}</section>`;
+}
+
 function renderRecipes() {
   const visible = filterRecipes(recipes, filters);
   $('#result-count').textContent = `${visible.length} ${visible.length === 1 ? 'recipe' : 'recipes'}${filters.favoritesOnly ? ' in your favorites' : ''}`;
@@ -40,6 +45,7 @@ function renderRecipes() {
     <div class="card-topline"><span class="card-category">${escapeHtml(recipe.category)}</span><button type="button" class="favorite-button ${favorites.has(recipe.id) ? 'is-favorite' : ''}" data-favorite="${escapeHtml(recipe.id)}" aria-label="${favorites.has(recipe.id) ? 'Remove' : 'Save'} ${escapeHtml(recipe.title)} ${favorites.has(recipe.id) ? 'from' : 'to'} favorites" aria-pressed="${favorites.has(recipe.id)}">${star(favorites.has(recipe.id))}</button></div>
     <h3 class="recipe-title"><button type="button" data-open="${escapeHtml(recipe.id)}">${escapeHtml(recipe.title)}</button></h3>
     <p class="recipe-description">${escapeHtml(recipeSummary(recipe))}</p>
+    ${recipe.pairings?.items?.length ? `<p class="card-pairings"><span>${recipe.pairings.heading === 'Goes great on' ? 'Great on' : 'Serve with'}</span> ${recipe.pairings.items.map(item => escapeHtml(item.food)).join(' · ')}</p>` : ''}
     <div class="card-bottom"><span class="ingredient-count">${recipe.ingredients.length} ingredients${recipe.warnings?.length ? ' <span class="source-flag" title="Includes source notes">· source notes</span>' : ''}</span><button type="button" class="recipe-open" data-open="${escapeHtml(recipe.id)}" aria-label="Open ${escapeHtml(recipe.title)}">View recipe ${arrow}</button></div>
   </article>`).join('') : `<div class="empty-state"><span aria-hidden="true">✳</span><h3>No recipes on this rack.</h3><p>${filters.favoritesOnly ? 'Tap the star on any recipe to save it here, or try a broader search.' : 'Try a different ingredient, recipe name, or category.'}</p><button type="button" class="secondary-button" data-reset-filters>Show all recipes</button></div>`;
 }
@@ -65,6 +71,7 @@ function renderDetail() {
     ${recipe.bigTNote ? `<aside class="big-t-note" aria-label="At Big T’s table"><img src="./assets/big-t-mascot.png" alt="" width="64" height="64"><div><h4>At Big T’s table</h4><p>${escapeHtml(recipe.bigTNote)}</p></div></aside>` : ''}
     <div class="detail-meta"><span>${recipe.ingredients.length} ingredients</span><span>${recipe.baseBatch ? `Source batch: ${formatAmount(recipe.baseBatch.amount)} ${escapeHtml(recipe.baseBatch.unit)}` : '1× = original recipe'}</span></div>
     <div class="detail-actions"><button type="button" class="secondary-button" data-detail-favorite aria-pressed="${favorites.has(recipe.id)}">${star(favorites.has(recipe.id))} ${favorites.has(recipe.id) ? 'Saved' : 'Save recipe'}</button><button type="button" class="secondary-button" data-cook-mode aria-pressed="${cookMode}">${cookMode ? 'Exit cook mode' : 'Cook mode'}</button><button type="button" class="secondary-button" data-print="recipe">Print</button><button type="button" class="secondary-button" data-share>Copy link</button></div>
+    ${renderPairings(recipe)}
     ${recipe.warnings?.length ? `<aside class="recipe-warning"><strong>Notes on the original recipe</strong><ul>${recipe.warnings.map(note => `<li>${escapeHtml(note)}</li>`).join('')}</ul></aside>` : ''}
     <section class="batch-panel" aria-label="Batch size"><div><h3 class="detail-section-title">Make it your batch</h3><p>${scalable ? 'Adjust the quantities to fit your cook.' : 'Original quantities shown. Scaling is unavailable for this recipe.'}</p></div>
     ${scalable ? `<div class="scale-controls">${[0.5, 1, 2, 3].map(value => `<button type="button" class="scale-button ${factor === value ? 'active' : ''}" data-factor="${value}" aria-pressed="${factor === value}">${value === 0.5 ? '½' : value}×</button>`).join('')}<label class="custom-scale">Custom <input class="scale-input" id="custom-factor" type="number" min="0.1" max="20" step="any" value="${factor}" aria-label="Custom batch multiplier"> ×</label></div>${recipe.baseBatch?.amount ? `<label class="target-batch">Target batch <input class="scale-input" id="target-batch" type="number" min="${recipe.baseBatch.amount * 0.1}" max="${recipe.baseBatch.amount * 20}" step="any" value="${Number((recipe.baseBatch.amount * factor).toPrecision(7))}"> ${escapeHtml(recipe.baseBatch.unit)} <small>using the workbook’s batch basis</small></label>` : ''}<p class="scale-caption">Showing <strong>${formatAmount(factor)}×</strong> the source quantities. Ranges and unspecified amounts stay as written. Method text and original batch details do not change.</p>` : ''}</section>

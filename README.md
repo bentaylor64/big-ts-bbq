@@ -43,6 +43,8 @@ The mascot was created with OpenAI’s built-in image generation tool using four
 
 ## Update recipes
 
+Each recipe also has editorial `pairings`: a “Goes great on” section for rubs, sauces, seasonings, marinades and condiments, or “Serve it with” for dishes. These are suggested combinations, not claims about Big T’s personal favorites. Search includes pairing foods, so queries such as `venison`, `salmon`, or `fish` can find matching seasonings as well as main dishes. Lake Michigan fish selections were checked against [Michigan DNR’s Better Fishing Waters](https://www.michigan.gov/dnr/things-to-do/fishing/where/better-fishing-waters). Pairing suggestions do not change source preparation, brining, or curing directions.
+
 Edit `data/recipes.json`, preserving stable recipe IDs so saved favorites and recipe links continue to work. Each recipe includes its category, ingredients, methods, notes, source, and scaling settings. Counts and category filters are calculated by the app. Commit to `main` to publish updates through GitHub Pages.
 
 The optional Google Fonts stylesheet supplies Barlow Condensed and DM Sans; local system font fallbacks are provided.
