@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f6f2e9">
+  <meta name="description" content="Big T’s personal BBQ recipe collection. Explore rubs, seasonings, sausages, and more. Scale your next batch and build a shopping list.">
+  <title>Big T’s BBQ — The Recipe Box</title>
+  <link rel="icon" type="image/svg+xml" href="./assets/flame.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#recipe-library">Skip to recipes</a>
+  <div class="page-shell">
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="Big T’s BBQ home">
+        <svg class="brand-flame" viewBox="0 0 44 54" aria-hidden="true"><path fill="currentColor" d="M24 0c4 14-6 18-4 27 3-2 7-7 8-12 10 11 15 18 13 27-2 8-10 12-19 12S4 49 3 39c-1-8 4-14 10-20-1 10 1 12 4 13C11 17 24 14 24 0Z"/><path fill="#f6f2e9" d="M24 31c2 6 7 9 6 14-1 5-5 7-9 6-7-1-8-7-3-12 0 5 3 5 3 5-1-6 3-8 3-13Z"/></svg>
+        <span class="brand-wordmark">BIG T’S<span>BBQ &amp; MORE</span></span>
+      </a>
+      <nav class="header-nav" aria-label="Main navigation">
+        <a class="nav-link" href="#recipe-library">The recipe box <span aria-hidden="true">↗</span></a>
+        <button id="shopping-button" class="shopping-button" type="button" aria-haspopup="dialog">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 8h14l1 13H4L5 8Zm3 0V6a4 4 0 0 1 8 0v2"/></svg>
+          <span>Shopping list</span><span id="shopping-count" class="shopping-count">0</span>
+        </button>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="tiny-star" aria-hidden="true">✳</span> FROM THE BIG T’S RECIPE COLLECTION</p>
+          <h1 id="hero-title">BIG FLAVOR.<br>YOUR <span class="serif-word">way.</span></h1>
+          <p class="hero-description">A little smoke. A little spice. A whole lot of good food.<br class="desktop-break"> Your recipe box, ready for the next cook.</p>
+          <div class="hero-actions">
+            <a class="primary-button" href="#recipe-library">Find your next recipe <span aria-hidden="true">↘</span></a>
+            <button id="surprise-button" class="text-button" type="button"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m17 3 4 4-4 4M3 7h3c5 0 7 10 12 10h3M17 13l4 4-4 4M3 17h3c2 0 4-2 5-5M14 8c1-1 2-1 4-1h3"/></svg>Surprise me</button>
+          </div>
+          <div class="hero-footnote"><span class="handwritten-arrow" aria-hidden="true">↳</span> YOUR RECIPES. YOUR NEXT GREAT BATCH.</div>
+        </div>
+        <div class="hero-art" aria-hidden="true">
+          <img src="./assets/spice-still-life.svg" alt="" width="620" height="430">
+          <span class="art-note note-one">good things<br>start here.</span>
+          <span class="art-note note-two">a pinch of<br>possibility</span>
+          <span class="illustration-caption">THE SECRET’S IN THE MIX.</span>
+        </div>
+      </section>
+
+      <div class="collection-strip" aria-label="Collection overview">
+        <span class="strip-title"><span aria-hidden="true">✳</span> OPEN THE RECIPE BOX</span>
+        <div class="strip-stats"><span><strong id="total-recipes">—</strong> RECIPES</span><span><strong id="total-categories">—</strong> CATEGORIES</span><span class="strip-last">ENDLESS POSSIBILITIES <span aria-hidden="true">↗</span></span></div>
+      </div>
+
+      <section id="recipe-library" class="recipe-library" aria-labelledby="library-heading">
+        <div class="library-heading-row">
+          <div><p class="eyebrow section-eyebrow">FOR WHATEVER’S ON THE MENU</p><h2 id="library-heading">The recipe box<span class="heading-period">.</span></h2></div>
+          <p class="library-description">Find it. Make it yours.<br>Then fire things up.</p>
+        </div>
+        <div class="library-toolbar">
+          <label class="search-field" for="search-input">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg>
+            <input id="search-input" type="search" aria-label="Search recipes or ingredients" placeholder="Search recipes or ingredients…" autocomplete="off">
+            <span class="search-hint" aria-hidden="true">EXPLORE THE GOOD STUFF</span>
+          </label>
+          <button id="favorites-filter" class="favorites-filter" type="button" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.4 4.7a5.5 5.5 0 0 0-7.8 0l-.6.6-.6-.6a5.5 5.5 0 0 0-7.8 7.8L12 21l8.4-8.5a5.5 5.5 0 0 0 0-7.8Z"/></svg>My favorites</button>
+        </div>
+        <div class="filter-row">
+          <div id="category-filters" class="category-filters" role="group" aria-label="Filter recipes by category"></div>
+          <label class="sort-field" for="sort-select"><span>Sort</span><select id="sort-select"><option value="original">Recipe box order</option><option value="az">Name: A–Z</option><option value="ingredients">Fewest ingredients</option></select><span aria-hidden="true">⌄</span></label>
+        </div>
+        <div class="results-heading"><p id="result-count" role="status" aria-live="polite">Opening the recipe box…</p><span>MADE TO BE MADE</span></div>
+        <div id="recipe-grid" class="recipe-grid" aria-label="Recipes"></div>
+        <noscript><p class="empty-state">Please enable JavaScript to explore the recipes, adjust batch sizes, and build your shopping list.</p></noscript>
+      </section>
+    </main>
+
+    <footer class="site-footer"><a class="footer-brand" href="#">BIG T’S <span>BBQ &amp; MORE</span></a><p>Good food is meant to be shared.</p><span class="footer-note">KEEP THE FIRE GOING <span aria-hidden="true">✳</span></span></footer>
+  </div>
+
+  <dialog id="recipe-dialog" class="recipe-dialog" aria-label="Recipe details">
+    <button class="dialog-close" type="button" data-close-dialog="recipe-dialog" aria-label="Close recipe">×</button>
+    <div id="recipe-dialog-body" class="dialog-body"></div>
+  </dialog>
+  <dialog id="shopping-dialog" class="shopping-dialog" aria-label="Shopping list">
+    <button class="dialog-close" type="button" data-close-dialog="shopping-dialog" aria-label="Close shopping list">×</button>
+    <div id="shopping-dialog-body" class="dialog-body"></div>
+  </dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+</body>
+</html>
