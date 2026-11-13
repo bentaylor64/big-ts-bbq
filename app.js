@@ -1,4 +1,4 @@
-import {normalize, formatAmount, ingredientAmount, filterRecipes, aggregateShopping, validFactor} from './recipe-utils.js';
+import {normalize, formatAmount, ingredientAmount, filterRecipes, aggregateShopping, validFactor} from './recipe-utils.js?v=20261113-pairings-2';
 
 const $ = selector => document.querySelector(selector);
 const escapeHtml = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'}[c]));
@@ -180,7 +180,7 @@ for (const dialog of document.querySelectorAll('dialog')) dialog.addEventListene
 window.addEventListener('hashchange', openHashRecipe);
 
 try {
-  const response = await fetch('./data/recipes.json');
+  const response = await fetch('./data/recipes.json?v=20261113-pairings-2', {cache: 'no-cache'});
   if (!response.ok) throw new Error(`Recipe data returned ${response.status}`);
   const data = await response.json(); recipes = data.recipes;
   const order = ['Dry Rubs', 'Seasonings', 'Sausages', 'Burgers', 'Sauces & Glazes', 'Marinades', 'Mains', 'Sides & Snacks', 'Butters & Condiments'];

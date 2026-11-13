@@ -48,3 +48,5 @@ Each recipe also has editorial `pairings`: a “Goes great on” section for rub
 Edit `data/recipes.json`, preserving stable recipe IDs so saved favorites and recipe links continue to work. Each recipe includes its category, ingredients, methods, notes, source, and scaling settings. Counts and category filters are calculated by the app. Commit to `main` to publish updates through GitHub Pages.
 
 The optional Google Fonts stylesheet supplies Barlow Condensed and DM Sans; local system font fallbacks are provided.
+
+CSS, JavaScript, and recipe-data URLs include a release version to avoid mixing cached files after a deployment. Bump the shared `v=` value in `index.html` and `app.js` when those files change. Recipe-data requests also revalidate their cache on page load. Pairing sections remain available in Cook Mode.
