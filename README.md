@@ -23,7 +23,7 @@ The site has no build step or package dependencies. In the repository’s **Sett
 - `app.js` — browsing, favorites, recipe views, batch controls, and shopping list
 - `recipe-utils.js` — pure search, quantity formatting, and aggregation helpers
 - `data/recipes.json` — recipe data with original text and workbook cell references
-- `assets/` — original SVG illustrations
+- `assets/` — original SVG illustrations and Big T’s transparent cartoon mascot
 
 ## Recipe data
 
@@ -34,6 +34,12 @@ Formula recipes use saved workbook ingredient values, with source discrepancies 
 Shopping totals combine matching ingredient names and units only. They do not convert volumes to weights or combine unlike units. Original amounts and ranges remain identifiable. Favorites and the selected shopping recipes are stored in the visitor’s browser; there is no account, server database, or cross-device synchronization. Ingredient and method checkmarks last for the current page session.
 
 Recipe labels mentioning brands or chefs are preserved from the supplied workbook and do not imply affiliation or endorsement. The original workbook is not included in this repository.
+
+## Big T’s story and mascot
+
+Big T’s biography is based on the owner’s description of his lifelong hunting and fishing, interest in harvesting and processing his own game, and enjoyment of sharing good food and conversation. The `bigTNote` fields provide editorial context connecting each recipe’s contents to that background; they are not quotations, specific personal memories, or claims of authorship.
+
+The mascot was created with OpenAI’s built-in image generation tool using four owner-supplied reference photographs. Only the finished mascot is published here; the reference photographs are not included.
 
 ## Update recipes
 

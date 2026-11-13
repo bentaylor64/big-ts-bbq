@@ -4,9 +4,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#f6f2e9">
-  <meta name="description" content="Big T’s personal BBQ recipe collection. Explore rubs, seasonings, sausages, and more. Scale your next batch and build a shopping list.">
+  <meta name="description" content="Meet Big T: an outdoorsman who shares himself through good food and good conversation. Explore 97 recipes, from wild-game sausages to rubs, sauces, and sides.">
+  <meta property="og:title" content="Big T’s BBQ — Big T. Big Flavor.">
+  <meta property="og:description" content="From the outdoors to the table. Explore Big T’s recipe box and make your next batch.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://bentaylor64.github.io/big-ts-bbq/">
+  <meta property="og:image" content="https://bentaylor64.github.io/big-ts-bbq/assets/big-t-mascot.png">
+  <meta property="og:image:alt" content="A jolly cartoon Big T with his white beard, backward cap, and a thumbs-up.">
   <title>Big T’s BBQ — The Recipe Box</title>
-  <link rel="icon" type="image/svg+xml" href="./assets/flame.svg">
+  <link rel="icon" type="image/png" href="./assets/big-t-mascot.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -18,10 +24,11 @@
   <div class="page-shell">
     <header class="site-header">
       <a class="brand" href="./" aria-label="Big T’s BBQ home">
-        <svg class="brand-flame" viewBox="0 0 44 54" aria-hidden="true"><path fill="currentColor" d="M24 0c4 14-6 18-4 27 3-2 7-7 8-12 10 11 15 18 13 27-2 8-10 12-19 12S4 49 3 39c-1-8 4-14 10-20-1 10 1 12 4 13C11 17 24 14 24 0Z"/><path fill="#f6f2e9" d="M24 31c2 6 7 9 6 14-1 5-5 7-9 6-7-1-8-7-3-12 0 5 3 5 3 5-1-6 3-8 3-13Z"/></svg>
+        <img class="brand-mascot" src="./assets/big-t-mascot.png" alt="" width="74" height="74">
         <span class="brand-wordmark">BIG T’S<span>BBQ &amp; MORE</span></span>
       </a>
       <nav class="header-nav" aria-label="Main navigation">
+        <a class="nav-link" href="#meet-big-t">Meet Big T</a>
         <a class="nav-link" href="#recipe-library">The recipe box <span aria-hidden="true">↗</span></a>
         <button id="shopping-button" class="shopping-button" type="button" aria-haspopup="dialog">
           <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 8h14l1 13H4L5 8Zm3 0V6a4 4 0 0 1 8 0v2"/></svg>
@@ -34,19 +41,19 @@
       <section class="hero" aria-labelledby="hero-title">
         <div class="hero-copy">
           <p class="eyebrow"><span class="tiny-star" aria-hidden="true">✳</span> FROM THE BIG T’S RECIPE COLLECTION</p>
-          <h1 id="hero-title">BIG FLAVOR.<br>YOUR <span class="serif-word">way.</span></h1>
-          <p class="hero-description">A little smoke. A little spice. A whole lot of good food.<br class="desktop-break"> Your recipe box, ready for the next cook.</p>
+          <h1 id="hero-title">BIG T.<br><span class="hero-title-accent">BIG FLAVOR.</span></h1>
+          <p class="hero-description">From hunting and fishing to food worth sharing.<br class="desktop-break"> Open Big T’s recipe box and make your next batch.</p>
           <div class="hero-actions">
             <a class="primary-button" href="#recipe-library">Find your next recipe <span aria-hidden="true">↘</span></a>
             <button id="surprise-button" class="text-button" type="button"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m17 3 4 4-4 4M3 7h3c5 0 7 10 12 10h3M17 13l4 4-4 4M3 17h3c2 0 4-2 5-5M14 8c1-1 2-1 4-1h3"/></svg>Surprise me</button>
           </div>
           <div class="hero-footnote"><span class="handwritten-arrow" aria-hidden="true">↳</span> YOUR RECIPES. YOUR NEXT GREAT BATCH.</div>
         </div>
-        <div class="hero-art" aria-hidden="true">
-          <img src="./assets/spice-still-life.svg" alt="" width="620" height="430">
-          <span class="art-note note-one">good things<br>start here.</span>
-          <span class="art-note note-two">a pinch of<br>possibility</span>
-          <span class="illustration-caption">THE SECRET’S IN THE MIX.</span>
+        <div class="hero-art mascot-hero">
+          <span class="mascot-star mascot-star-one" aria-hidden="true">✳</span>
+          <span class="mascot-star mascot-star-two" aria-hidden="true">✳</span>
+          <img class="hero-mascot" src="./assets/big-t-mascot.png" alt="Cartoon portrait of Big T, smiling with his white beard and backward cap." width="460" height="460" fetchpriority="high">
+          <span class="mascot-nameplate" aria-hidden="true"><span>THE MAN BEHIND THE RECIPES</span><strong>BIG T.</strong></span>
         </div>
       </section>
 
@@ -54,6 +61,11 @@
         <span class="strip-title"><span aria-hidden="true">✳</span> OPEN THE RECIPE BOX</span>
         <div class="strip-stats"><span><strong id="total-recipes">—</strong> RECIPES</span><span><strong id="total-categories">—</strong> CATEGORIES</span><span class="strip-last">ENDLESS POSSIBILITIES <span aria-hidden="true">↗</span></span></div>
       </div>
+
+      <section id="meet-big-t" class="meet-big-t" aria-labelledby="meet-big-t-title">
+        <div class="meet-heading"><p class="eyebrow">MEET BIG T</p><h2 id="meet-big-t-title">From the outdoors.<br>To the <em>table.</em></h2></div>
+        <div class="meet-story"><p>Hunting and fishing have been part of Big T’s life since childhood. He enjoys the whole process—from harvesting and processing his own game to turning it into a meal worth sharing.</p><p>For him, good food and good conversation are a way to share a little of himself.</p></div>
+      </section>
 
       <section id="recipe-library" class="recipe-library" aria-labelledby="library-heading">
         <div class="library-heading-row">
@@ -78,7 +90,7 @@
       </section>
     </main>
 
-    <footer class="site-footer"><a class="footer-brand" href="#">BIG T’S <span>BBQ &amp; MORE</span></a><p>Good food is meant to be shared.</p><span class="footer-note">KEEP THE FIRE GOING <span aria-hidden="true">✳</span></span></footer>
+    <footer class="site-footer"><a class="footer-brand mascot-footer-brand" href="#"><img src="./assets/big-t-mascot.png" alt="" width="48" height="48" loading="lazy"><span class="footer-wordmark">BIG T’S <small>BBQ &amp; MORE</small></span></a><p>Good food is meant to be shared.</p><span class="footer-note">KEEP THE FIRE GOING <span aria-hidden="true">✳</span></span></footer>
   </div>
 
   <dialog id="recipe-dialog" class="recipe-dialog" aria-label="Recipe details">

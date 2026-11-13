@@ -62,6 +62,7 @@ function renderDetail() {
   $('#recipe-dialog-body').innerHTML = `<div class="detail-eyebrow">${escapeHtml(recipe.category)} <span> / THE RECIPE BOOK</span></div>
     <h2 class="detail-title" id="recipe-dialog-title">${escapeHtml(recipe.title)}</h2>
     <p class="detail-description">${escapeHtml(recipeSummary(recipe))}</p>
+    ${recipe.bigTNote ? `<aside class="big-t-note" aria-label="At Big T’s table"><img src="./assets/big-t-mascot.png" alt="" width="64" height="64"><div><h4>At Big T’s table</h4><p>${escapeHtml(recipe.bigTNote)}</p></div></aside>` : ''}
     <div class="detail-meta"><span>${recipe.ingredients.length} ingredients</span><span>${recipe.baseBatch ? `Source batch: ${formatAmount(recipe.baseBatch.amount)} ${escapeHtml(recipe.baseBatch.unit)}` : '1× = original recipe'}</span></div>
     <div class="detail-actions"><button type="button" class="secondary-button" data-detail-favorite aria-pressed="${favorites.has(recipe.id)}">${star(favorites.has(recipe.id))} ${favorites.has(recipe.id) ? 'Saved' : 'Save recipe'}</button><button type="button" class="secondary-button" data-cook-mode aria-pressed="${cookMode}">${cookMode ? 'Exit cook mode' : 'Cook mode'}</button><button type="button" class="secondary-button" data-print="recipe">Print</button><button type="button" class="secondary-button" data-share>Copy link</button></div>
     ${recipe.warnings?.length ? `<aside class="recipe-warning"><strong>Notes on the original recipe</strong><ul>${recipe.warnings.map(note => `<li>${escapeHtml(note)}</li>`).join('')}</ul></aside>` : ''}

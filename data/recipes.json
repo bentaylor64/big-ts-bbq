@@ -363,7 +363,9 @@
         "cell": "A56",
         "text": "Keep your temperature around 125-145 while smoking. Just make sure you cook it to 165 and cool down a.s.a.p."
       }
-    ]
+    ],
+    "bigTBio": "He grew up an outdoorsman. Always hunting and fishing as a child and into his adult life. He enjoys the tail to toe process of harvesting and processing his own game and really likes to share himself via good food and good conversation.",
+    "bigTNotesContext": "Editorial context based on the supplied biography and recipe contents. These notes are separate from the imported recipe text."
   },
   "recipes": [
     {
@@ -521,7 +523,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "Q2: All purpose dry rub, (beef, chicken)\nQ3: 1 tablespoon cumin\nQ4: 1 tablespoon sweet smoked paprika or regular paprika if you can't find smoked\nQ5: 1 tablespoon granulated garlic\nQ6: 1 tablespoon chili powder\nQ7: 1 teaspoon cayenne pepper\nQ8: 1 teaspoon dry mustard\nQ9: 1/2 teaspoon celery seed\nQ10: 1/2 teaspoon ground coriander\nQ11: 1 tablespoon brown sugar\nQ12: 2 tablespoons kosher salt\nQ13: 1 teaspoon black pepper\nQ16: 1 teaspoon white pepper"
+      "originalText": "Q2: All purpose dry rub, (beef, chicken)\nQ3: 1 tablespoon cumin\nQ4: 1 tablespoon sweet smoked paprika or regular paprika if you can't find smoked\nQ5: 1 tablespoon granulated garlic\nQ6: 1 tablespoon chili powder\nQ7: 1 teaspoon cayenne pepper\nQ8: 1 teaspoon dry mustard\nQ9: 1/2 teaspoon celery seed\nQ10: 1/2 teaspoon ground coriander\nQ11: 1 tablespoon brown sugar\nQ12: 2 tablespoons kosher salt\nQ13: 1 teaspoon black pepper\nQ16: 1 teaspoon white pepper",
+      "bigTNote": "Cumin, paprika, garlic and brown sugar make this a blend for beef and chicken, for meals built around the grill and a shared table."
     },
     {
       "id": "apple-bbq-rub",
@@ -665,7 +668,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "X2: Apple BBQ rub\nX3: 1/2 cup dark brown sugar\nX4: 2 Tablespoons kosher salt\nX5: 2 Tablespoons dried and ground apples\nX6: 1 Tablespoon coarse cracked black pepper (halve this if using a finer grind)\nX7: 1 Tablespoon chili powder\nX8: 1 Tablespoon smoked paprika\nX9: 1 Tablespoon garlic powder\nX10: 1 Tablespoon onion powder\nX11: 1 Teaspoon turmeric\nX12: 1 Teaspoon cinnamon\nX13: 1 Teaspoon dried basil"
+      "originalText": "X2: Apple BBQ rub\nX3: 1/2 cup dark brown sugar\nX4: 2 Tablespoons kosher salt\nX5: 2 Tablespoons dried and ground apples\nX6: 1 Tablespoon coarse cracked black pepper (halve this if using a finer grind)\nX7: 1 Tablespoon chili powder\nX8: 1 Tablespoon smoked paprika\nX9: 1 Tablespoon garlic powder\nX10: 1 Tablespoon onion powder\nX11: 1 Teaspoon turmeric\nX12: 1 Teaspoon cinnamon\nX13: 1 Teaspoon dried basil",
+      "bigTNote": "Dried apples and dark brown sugar bring fruit and sweetness to this BBQ blend, with cinnamon and smoked paprika adding spice to the seasoning shelf."
     },
     {
       "id": "basic-pork-rub",
@@ -766,7 +770,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "A2: Basic Pork Rub\nA3: 1/3 cup paprika\nA4: 1/4 cup sugar\nA5: 3 tablespoons black pepper\nA6: 2 tablespoons salt\nA7: 2 teaspoons dry mustard\nA8: 2 teaspoons cayenne\nA9: 1 teaspoon white pepper"
+      "originalText": "A2: Basic Pork Rub\nA3: 1/3 cup paprika\nA4: 1/4 cup sugar\nA5: 3 tablespoons black pepper\nA6: 2 tablespoons salt\nA7: 2 teaspoons dry mustard\nA8: 2 teaspoons cayenne\nA9: 1 teaspoon white pepper",
+      "bigTNote": "Paprika, sugar and three kinds of pepper form a straightforward pork rub—a useful starting point for turning a cut of meat into a meal to share."
     },
     {
       "id": "bbq-chicken-rub",
@@ -878,7 +883,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "T2: BBQ Chicken Rub\nT3: 2 tablespoons smoked paprika\nT4: 2 tablespoons brown sugar\nT5: 1 tablespoon chili powder\nT6: 1 teaspoon garlic powder\nT7: 1 teaspoon onion powder\nT8: 1 teaspoon kosher salt\nT9: 1 teaspoon black pepper\nT10: 1/4 teaspoon cayenne pepper"
+      "originalText": "T2: BBQ Chicken Rub\nT3: 2 tablespoons smoked paprika\nT4: 2 tablespoons brown sugar\nT5: 1 tablespoon chili powder\nT6: 1 teaspoon garlic powder\nT7: 1 teaspoon onion powder\nT8: 1 teaspoon kosher salt\nT9: 1 teaspoon black pepper\nT10: 1/4 teaspoon cayenne pepper",
+      "bigTNote": "Smoked paprika and brown sugar lead this chicken blend, with garlic, onion and a little cayenne adding depth to a familiar staple at a shared table."
     },
     {
       "id": "beef-brisket-rub",
@@ -968,7 +974,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "M2: Beef brisket Rub\nM3: 50/50 Kosher Salt and Black pepper (4Tbs each)\nM4: 1/4 tsp garlic powder\nM5: 1/4 tsp onion powder\nM6: 1 tbs paprika\nM7: 1/2 tbs cayenne pepper"
+      "originalText": "M2: Beef brisket Rub\nM3: 50/50 Kosher Salt and Black pepper (4Tbs each)\nM4: 1/4 tsp garlic powder\nM5: 1/4 tsp onion powder\nM6: 1 tbs paprika\nM7: 1/2 tbs cayenne pepper",
+      "bigTNote": "Salt and black pepper anchor this brisket blend. Smaller amounts of garlic, onion, paprika and cayenne keep the seasoning focused on the cut."
     },
     {
       "id": "bobby-flay-s-signature-rub",
@@ -1079,7 +1086,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "J2: Bobby Flay's Signature Rub\nJ3: 2T Ancho chile powder\nJ4: 2 teaspoons each:\nJ5: Spanish paprika\nJ6: Ground coriander\nJ7: Dry mustard\nJ8: Ground dried oregano\nJ9: Ground cumin\nJ10: 1 teaspoon each Kosher salt and pepper"
+      "originalText": "J2: Bobby Flay's Signature Rub\nJ3: 2T Ancho chile powder\nJ4: 2 teaspoons each:\nJ5: Spanish paprika\nJ6: Ground coriander\nJ7: Dry mustard\nJ8: Ground dried oregano\nJ9: Ground cumin\nJ10: 1 teaspoon each Kosher salt and pepper",
+      "bigTNote": "Ancho chile, paprika and coriander give this collected rub its character. It adds another seasoning option to a recipe box centered on preparing and sharing food."
     },
     {
       "id": "bone-sucking-rub",
@@ -1190,7 +1198,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "N2: Bone sucking rub\nN3: 1 cup Turbinado sugar (also called sugar in the raw).\nN4: 1/4 Cup of Kosher Salt\nN5: 1 Tblsp Paprika\nN6: 1 Tablespoon Garlic Powder\nN7: 1 Tablespoon Onion Powder\nN8: 1 Tablespoon Black Pepper\nN9: 1/2 Tablespoon Cayenne Pepper\nN10: 1/4 Tablespoon dry mustard"
+      "originalText": "N2: Bone sucking rub\nN3: 1 cup Turbinado sugar (also called sugar in the raw).\nN4: 1/4 Cup of Kosher Salt\nN5: 1 Tblsp Paprika\nN6: 1 Tablespoon Garlic Powder\nN7: 1 Tablespoon Onion Powder\nN8: 1 Tablespoon Black Pepper\nN9: 1/2 Tablespoon Cayenne Pepper\nN10: 1/4 Tablespoon dry mustard",
+      "bigTNote": "Turbinado sugar leads this collected BBQ rub, followed by salt, paprika, garlic and cayenne—a sweet, peppery direction for the seasoning shelf."
     },
     {
       "id": "brisket-rub",
@@ -1290,7 +1299,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "R2: Brisket Rub\nR3: 3 tablespoon coarsely ground black pepper\nR4: 1 tablespoon granulated white sugar\nR5: 1 tablespoon onion powder\nR6: 2 teaspoons mustard powder\nR7: 2 teaspoons garlic powder\nR8: 2 teaspoons American chili or ancho powder\nR9: 1 teaspoon chipotle or cayenne powder"
+      "originalText": "R2: Brisket Rub\nR3: 3 tablespoon coarsely ground black pepper\nR4: 1 tablespoon granulated white sugar\nR5: 1 tablespoon onion powder\nR6: 2 teaspoons mustard powder\nR7: 2 teaspoons garlic powder\nR8: 2 teaspoons American chili or ancho powder\nR9: 1 teaspoon chipotle or cayenne powder",
+      "bigTNote": "Coarsely ground black pepper leads this brisket rub, supported by mustard, garlic and chile. It keeps a focus on meat at the center of the recipe box."
     },
     {
       "id": "cajun-seasoning",
@@ -1434,7 +1444,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "E2: Cajun seasoning\nE3: 3 tablespoons smoked paprika\nE4: 3 tablespoons garlic powder\nE5: 1 tablespoons table salt\nE6: 1 tablespoon ground black pepper\nE7: 1 tablespoon ground white pepper\nE8: 1 tablespoon onion powder\nE9: 1 tablespoon cayenne\nE10: 1 tablespoon dried oregano\nE11: 1 tablespoon dried sweet basil\nE12: 1/2 tablespoon dried thyme\nE13: 2 tbsp brown sugar"
+      "originalText": "E2: Cajun seasoning\nE3: 3 tablespoons smoked paprika\nE4: 3 tablespoons garlic powder\nE5: 1 tablespoons table salt\nE6: 1 tablespoon ground black pepper\nE7: 1 tablespoon ground white pepper\nE8: 1 tablespoon onion powder\nE9: 1 tablespoon cayenne\nE10: 1 tablespoon dried oregano\nE11: 1 tablespoon dried sweet basil\nE12: 1/2 tablespoon dried thyme\nE13: 2 tbsp brown sugar",
+      "bigTNote": "Smoked paprika, garlic and several peppers give this blend a bold seasoning profile, while thyme, oregano and basil bring an herbal side."
     },
     {
       "id": "carolina-pork-bbq-rub",
@@ -1546,7 +1557,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "D2: Carolina Pork BBQ Rub\nD3: 2 tablespoons salt\nD4: 2 tablespoons sugar\nD5: 2 tablespoons brown sugar\nD6: 2 tablespoons ground cumin\nD7: 2 tablespoons chili powder\nD8: 2 tablespoons freshly ground black pepper\nD9: 1 tablespoon cayenne pepper\nD10: 1/4 cup paprika"
+      "originalText": "D2: Carolina Pork BBQ Rub\nD3: 2 tablespoons salt\nD4: 2 tablespoons sugar\nD5: 2 tablespoons brown sugar\nD6: 2 tablespoons ground cumin\nD7: 2 tablespoons chili powder\nD8: 2 tablespoons freshly ground black pepper\nD9: 1 tablespoon cayenne pepper\nD10: 1/4 cup paprika",
+      "bigTNote": "This pork blend pairs two sugars with cumin, chili powder and cayenne, offering sweetness and spice for the shared BBQ table."
     },
     {
       "id": "central-bbq-s-rib-rub",
@@ -1679,7 +1691,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "K2: Central BBQ's Rib Rub\nK3: 1 tablespoon cumin\nK4: 1 tablespoon paprika\nK5: 1 tablespoon granulated garlic\nK6: 1 tablespoon granulated onion\nK7: 1 tablespoon chili powder\nK8: 1 tablespoon brown sugar\nK9: 2 tablespoons kosher salt\nK10: 1 teaspoon cayenne pepper\nK11: 1 teaspoon black pepper\nK12: 1 teaspoon white pepper"
+      "originalText": "K2: Central BBQ's Rib Rub\nK3: 1 tablespoon cumin\nK4: 1 tablespoon paprika\nK5: 1 tablespoon granulated garlic\nK6: 1 tablespoon granulated onion\nK7: 1 tablespoon chili powder\nK8: 1 tablespoon brown sugar\nK9: 2 tablespoons kosher salt\nK10: 1 teaspoon cayenne pepper\nK11: 1 teaspoon black pepper\nK12: 1 teaspoon white pepper",
+      "bigTNote": "Cumin, paprika, garlic and onion give this collected rib rub its backbone. Brown sugar and three peppers round out the seasoning choices in the collection."
     },
     {
       "id": "chicken-rub-spicy",
@@ -1791,7 +1804,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "S2: Chicken rub spicy\nS3: 3 teaspoons salt\nS4: 2 teaspoons paprika*\nS5: 2 teaspoons brown sugar\nS6: 1.5 teaspoon black pepper\nS7: 1 teaspoon onion powder\nS8: 1 teaspoon garlic powder\nS9: 1 teaspoon dried thyme\nS10: ½ teaspoon cayenne pepper (optional, but recommended)**"
+      "originalText": "S2: Chicken rub spicy\nS3: 3 teaspoons salt\nS4: 2 teaspoons paprika*\nS5: 2 teaspoons brown sugar\nS6: 1.5 teaspoon black pepper\nS7: 1 teaspoon onion powder\nS8: 1 teaspoon garlic powder\nS9: 1 teaspoon dried thyme\nS10: ½ teaspoon cayenne pepper (optional, but recommended)**",
+      "bigTNote": "Paprika, thyme and garlic give this chicken rub its base, with cayenne offering the extra heat named in the recipe."
     },
     {
       "id": "ct-s-favorite-pulled-pork",
@@ -1925,7 +1939,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "I2: CT's Favorite Pulled Pork\nI3: 1/3 Cup Dark Brown Sugar\nI4: 1/2 Cup Paprika\nI5: 2 Tbl Sea Salt (Coarse)\nI6: 1 Tbl Chili Powder\nI7: 1 Tbl Onion Powder\nI8: 1 Tbl Garlic Powder\nI9: 1 Tbl Coarse Black Pepper\nI10: 1 Tbl Dried Mustard\nI11: 1 tsp Cayenne Pepper\nI12: 1 Tbl Mesquite with butter buds"
+      "originalText": "I2: CT's Favorite Pulled Pork\nI3: 1/3 Cup Dark Brown Sugar\nI4: 1/2 Cup Paprika\nI5: 2 Tbl Sea Salt (Coarse)\nI6: 1 Tbl Chili Powder\nI7: 1 Tbl Onion Powder\nI8: 1 Tbl Garlic Powder\nI9: 1 Tbl Coarse Black Pepper\nI10: 1 Tbl Dried Mustard\nI11: 1 tsp Cayenne Pepper\nI12: 1 Tbl Mesquite with butter buds",
+      "bigTNote": "Dark brown sugar and paprika lead this pulled pork blend. Its mustard, garlic and pepper connect the seasoning shelf to a dish built for passing around."
     },
     {
       "id": "dry-bbq-rub",
@@ -2036,7 +2051,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "B2: Dry BBQ Rub\nB3: 6 tbsp brown sugar, tightly packed\nB4: 2 tbsp Kosher salt\nB5: 1 tbsp chili powder\nB6: 1/2 tsp ground black pepper\nB7: 1/2 tsp cayenne pepper (optional)\nB8: 1/2 tsp thyme\nB9: 1/2 tsp onion powder\nB10: 1/2 tsp garlic powder"
+      "originalText": "B2: Dry BBQ Rub\nB3: 6 tbsp brown sugar, tightly packed\nB4: 2 tbsp Kosher salt\nB5: 1 tbsp chili powder\nB6: 1/2 tsp ground black pepper\nB7: 1/2 tsp cayenne pepper (optional)\nB8: 1/2 tsp thyme\nB9: 1/2 tsp onion powder\nB10: 1/2 tsp garlic powder",
+      "bigTNote": "Brown sugar, chili powder and thyme make this a compact BBQ blend. The optional cayenne leaves room for different tastes around the table."
     },
     {
       "id": "honey-bbq-rub",
@@ -2159,7 +2175,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "C2: Honey BBQ rub\nC3: 1/3 cup honey granules\nC4: 1/3 cup brown sugar\nC5: 4 teaspoons salt\nC6: 1 tablespoon chili powder American style\nC7: 2 teaspoons paprika not smoked\nC8: 1 teaspoon onion powder\nC9: 1 teaspoon granulated garlic\nC10: 1 teaspoon black pepper\nC11: 1/4 teaspoon cayenne pepper"
+      "originalText": "C2: Honey BBQ rub\nC3: 1/3 cup honey granules\nC4: 1/3 cup brown sugar\nC5: 4 teaspoons salt\nC6: 1 tablespoon chili powder American style\nC7: 2 teaspoons paprika not smoked\nC8: 1 teaspoon onion powder\nC9: 1 teaspoon granulated garlic\nC10: 1 teaspoon black pepper\nC11: 1/4 teaspoon cayenne pepper",
+      "bigTNote": "Honey granules and brown sugar bring sweetness to paprika, chili powder and garlic—a different direction for seasoning a meal to share."
     },
     {
       "id": "honey-hog-bbq-rub",
@@ -2260,7 +2277,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "W2: Honey Hog Bbq rub\nW3: 4 tablespoons honey powder\nW4: 1 tablespoon paprika\nW5: 2 teaspoons chili powder\nW6: 1 teaspoon garlic powder\nW7: 1 teaspoon black pepper\nW8: 1/2 teaspoon onion powder\nW9: 1/8 teaspoon cayenne pepper"
+      "originalText": "W2: Honey Hog Bbq rub\nW3: 4 tablespoons honey powder\nW4: 1 tablespoon paprika\nW5: 2 teaspoons chili powder\nW6: 1 teaspoon garlic powder\nW7: 1 teaspoon black pepper\nW8: 1/2 teaspoon onion powder\nW9: 1/8 teaspoon cayenne pepper",
+      "bigTNote": "Honey powder gives this collected blend its sweet starting point, with paprika, chili powder and cayenne adding color and heat."
     },
     {
       "id": "kansas-city-rib-rub",
@@ -2371,7 +2389,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "F2: Kansas City Rib Rub\nF3: 1/2 cup brown sugar\nF4: 1/4 cup paprika\nF5: 1 tablespoon black pepper\nF6: 1 tablespoon Kosher salt\nF7: 1 tablespoon chili powder\nF8: 1 tablespoon garlic powder\nF9: 1 tablespoon onion powder\nF10: 1 teaspoon cayenne"
+      "originalText": "F2: Kansas City Rib Rub\nF3: 1/2 cup brown sugar\nF4: 1/4 cup paprika\nF5: 1 tablespoon black pepper\nF6: 1 tablespoon Kosher salt\nF7: 1 tablespoon chili powder\nF8: 1 tablespoon garlic powder\nF9: 1 tablespoon onion powder\nF10: 1 teaspoon cayenne",
+      "bigTNote": "Brown sugar and paprika anchor this rib rub, supported by garlic, onion and pepper. It adds another option to the collection’s rib seasonings."
     },
     {
       "id": "kickin-chicken",
@@ -2472,7 +2491,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "U2: Kickin' Chicken\nU3: 1 tsp chili powder\nU4: 1/4 tsp ground red pepper\nU5: 1/2 tsp onion powder\nU6: 3/4 tsp sea salt\nU7: 1/2 tsp oregano\nU8: 1/2 tsp coriander\nU9: 1/8 tsp turmeric"
+      "originalText": "U2: Kickin' Chicken\nU3: 1 tsp chili powder\nU4: 1/4 tsp ground red pepper\nU5: 1/2 tsp onion powder\nU6: 3/4 tsp sea salt\nU7: 1/2 tsp oregano\nU8: 1/2 tsp coriander\nU9: 1/8 tsp turmeric",
+      "bigTNote": "Chili, coriander and oregano give this chicken seasoning its character, with turmeric and red pepper adding variety to the spice shelf."
     },
     {
       "id": "memphis-rub",
@@ -2649,7 +2669,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "H2: Memphis Rub\nH3: 1/2 cup paprika\nH4: 1/4 cup garlic powder\nH5: 1/4 cup mild chili powder (use medium or hot to kick up the heat)\nH6: 3 tablespoons Kosher salt\nH7: 3 tablespoons black pepper\nH8: 2 tablespoons onion powder\nH9: 2 tablespoons celery seeds\nH10: 1 tablespoon brown sugar\nH11: 1 tablespoon dried oregano\nH12: 1 tablespoon dried thyme\nH13: 3 teaspoons cumin\nH16: 2 teaspoons dry mustard\nH17: 2 teaspoons ground coriander\nH18: 2 teaspoons ground allspice"
+      "originalText": "H2: Memphis Rub\nH3: 1/2 cup paprika\nH4: 1/4 cup garlic powder\nH5: 1/4 cup mild chili powder (use medium or hot to kick up the heat)\nH6: 3 tablespoons Kosher salt\nH7: 3 tablespoons black pepper\nH8: 2 tablespoons onion powder\nH9: 2 tablespoons celery seeds\nH10: 1 tablespoon brown sugar\nH11: 1 tablespoon dried oregano\nH12: 1 tablespoon dried thyme\nH13: 3 teaspoons cumin\nH16: 2 teaspoons dry mustard\nH17: 2 teaspoons ground coriander\nH18: 2 teaspoons ground allspice",
+      "bigTNote": "Paprika and garlic lead a broad mix of herbs and spices, including celery seed, mustard and allspice—a layered option within the BBQ collection."
     },
     {
       "id": "mexican-flank-steak-rub",
@@ -2749,7 +2770,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "P2: Mexican flank steak rub\nP3: 1 tablespoon chili powder\nP4: 1 tablespoon light brown sugar\nP5: 2 teaspoons ground cumin\nP6: 2 teaspoons garlic powder\nP7: 2 teaspoons onion powder\nP8: 2 teaspoons salt\nP9: 1/2 teaspoon ground black pepper"
+      "originalText": "P2: Mexican flank steak rub\nP3: 1 tablespoon chili powder\nP4: 1 tablespoon light brown sugar\nP5: 2 teaspoons ground cumin\nP6: 2 teaspoons garlic powder\nP7: 2 teaspoons onion powder\nP8: 2 teaspoons salt\nP9: 1/2 teaspoon ground black pepper",
+      "bigTNote": "Chili powder, cumin and brown sugar build this flank-steak seasoning. It offers a distinct flavor direction for a cut that can be sliced and shared."
     },
     {
       "id": "pork-chop-steak-seasoning",
@@ -2861,7 +2883,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "V2: Pork Chop/Steak seasoning\nV3: 2 Tablespoons smoked paprika\nV4: ▢1 Tablespoon Kosher salt\nV5: ▢1 Tablespoon black pepper\nV6: ▢1 Tablespoon brown sugar\nV7: ▢1 teaspoon garlic powder\nV8: ▢1 teaspoon onion powder\nV9: ▢1/2 teaspoon ground mustard\nV10: ▢1/2 teaspoon cayenne pepper"
+      "originalText": "V2: Pork Chop/Steak seasoning\nV3: 2 Tablespoons smoked paprika\nV4: ▢1 Tablespoon Kosher salt\nV5: ▢1 Tablespoon black pepper\nV6: ▢1 Tablespoon brown sugar\nV7: ▢1 teaspoon garlic powder\nV8: ▢1 teaspoon onion powder\nV9: ▢1/2 teaspoon ground mustard\nV10: ▢1/2 teaspoon cayenne pepper",
+      "bigTNote": "Smoked paprika, pepper and brown sugar give this blend for pork chops and steak a place among the collection’s seasonings for individual cuts."
     },
     {
       "id": "smoked-turkey-rub",
@@ -3006,7 +3029,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "O2: Smoked Turkey Rub\nO3: 3 Tablespoons brown sugar\nO4: 2 Tablespoons smoked paprika\nO5: 2 Tablespoons kosher salt\nO6: 1 Tablespoon black pepper\nO7: 1 Tablespoon garlic powder\nO8: 1 Tablespoon onion powder\nO9: 1 teaspoon crushed rosemary\nO10: 1 teaspoon thyme\nO11: 1/2 teaspoon rubbed sage\nO12: 1/2 teaspoon celery salt\nO13: 1/4 teaspoon cayenne pepper"
+      "originalText": "O2: Smoked Turkey Rub\nO3: 3 Tablespoons brown sugar\nO4: 2 Tablespoons smoked paprika\nO5: 2 Tablespoons kosher salt\nO6: 1 Tablespoon black pepper\nO7: 1 Tablespoon garlic powder\nO8: 1 Tablespoon onion powder\nO9: 1 teaspoon crushed rosemary\nO10: 1 teaspoon thyme\nO11: 1/2 teaspoon rubbed sage\nO12: 1/2 teaspoon celery salt\nO13: 1/4 teaspoon cayenne pepper",
+      "bigTNote": "Rosemary, thyme and sage bring an herbal note to brown sugar and smoked paprika. This blend broadens the BBQ table to include turkey."
     },
     {
       "id": "spicy-bbq-rub",
@@ -3117,7 +3141,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "G2: Spicy BBQ Rub\nG3: 1/4 cup paprika\nG4: 2 tablespoons salt\nG5: 2 tablespoons sugar\nG6: 2 tablespoons brown sugar\nG7: 2 tablespoons cumin\nG8: 2 tablespoons chili powder\nG9: 2 tablespoons black pepper\nG10: 1 tablespoon cayenne pepper"
+      "originalText": "G2: Spicy BBQ Rub\nG3: 1/4 cup paprika\nG4: 2 tablespoons salt\nG5: 2 tablespoons sugar\nG6: 2 tablespoons brown sugar\nG7: 2 tablespoons cumin\nG8: 2 tablespoons chili powder\nG9: 2 tablespoons black pepper\nG10: 1 tablespoon cayenne pepper",
+      "bigTNote": "Cumin, chili powder, black pepper and cayenne put heat at the center of this blend, with paprika and two sugars alongside them."
     },
     {
       "id": "texas-style-sweet-with-a-little-heat",
@@ -3228,7 +3253,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "L2: Texas Style Sweet with a little Heat\nL3: 2 tablespoons Kosher salt\nL4: 1/2 cup paprika\nL5: 1/3 cup brown sugar\nL6: 3 tablespoons garlic powder\nL7: 3 tablespoons onion powder\nL8: 2 tablespoons oregano\nL9: 1 tablespoon of Ground Black Pepper\nL10: 1 tablespoon of Cayenne Pepper"
+      "originalText": "L2: Texas Style Sweet with a little Heat\nL3: 2 tablespoons Kosher salt\nL4: 1/2 cup paprika\nL5: 1/3 cup brown sugar\nL6: 3 tablespoons garlic powder\nL7: 3 tablespoons onion powder\nL8: 2 tablespoons oregano\nL9: 1 tablespoon of Ground Black Pepper\nL10: 1 tablespoon of Cayenne Pepper",
+      "bigTNote": "Brown sugar and paprika meet garlic, onion, oregano and cayenne in this blend, giving the seasoning shelf another sweet and spicy option."
     },
     {
       "id": "basic-steak-seasoning",
@@ -3328,7 +3354,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "J2: Basic Steak Seasoning\nJ3: 2 Tablespoons Kosher salt\nJ4: 2 Tablespoons black pepper\nJ5: 2 Tablespoons garlic powder\nJ6: 1 Tablespoon smoked paprika\nJ7: 1 Tablespoon onion powder\nJ8: 2 teaspoons dried rosemary\nJ9: 2 teaspoons dried thyme"
+      "originalText": "J2: Basic Steak Seasoning\nJ3: 2 Tablespoons Kosher salt\nJ4: 2 Tablespoons black pepper\nJ5: 2 Tablespoons garlic powder\nJ6: 1 Tablespoon smoked paprika\nJ7: 1 Tablespoon onion powder\nJ8: 2 teaspoons dried rosemary\nJ9: 2 teaspoons dried thyme",
+      "bigTNote": "Salt, pepper and garlic form the base, while rosemary and thyme add herbs. A simple seasoning option for meat prepared with care."
     },
     {
       "id": "blackened-seasoning",
@@ -3472,7 +3499,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "F2: Blackened Seasoning\nF3: 4 tsp ground paprika\nF4: 2 tsp dried thyme\nF5: 2 tsp onion powder\nF6: 2 tsps garlic powder\nF7: 1/2 tbsp granulated sugar\nF8: 2 tsp salt (Kosher)\nF9: 2 tsp black pepper\nF10: 1 tsp ground cayenne pepper, or to your taste – be careful!\nF11: 1 tsp dried oregano\nF12: 3/4 tsp ground cumin\nF13: 1/4 tsp ground nutmeg"
+      "originalText": "F2: Blackened Seasoning\nF3: 4 tsp ground paprika\nF4: 2 tsp dried thyme\nF5: 2 tsp onion powder\nF6: 2 tsps garlic powder\nF7: 1/2 tbsp granulated sugar\nF8: 2 tsp salt (Kosher)\nF9: 2 tsp black pepper\nF10: 1 tsp ground cayenne pepper, or to your taste – be careful!\nF11: 1 tsp dried oregano\nF12: 3/4 tsp ground cumin\nF13: 1/4 tsp ground nutmeg",
+      "bigTNote": "Paprika, thyme and oregano give this blend its base, with cayenne, cumin and nutmeg adding contrast across a varied spice list."
     },
     {
       "id": "caribbean-jerk-seasoning",
@@ -3561,7 +3589,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "E2: Caribbean Jerk Seasoning:\nE4: 1/4 cup onion powder\nE5: 2 tablespoons sea salt\nE6: 2 tablespoons thyme\nE7: 2 teaspoons ground allspice\nE8: 1 tablespoon cinnamon\nE9: 1 teaspoon cayenne powder (optional)"
+      "originalText": "E2: Caribbean Jerk Seasoning:\nE4: 1/4 cup onion powder\nE5: 2 tablespoons sea salt\nE6: 2 tablespoons thyme\nE7: 2 teaspoons ground allspice\nE8: 1 tablespoon cinnamon\nE9: 1 teaspoon cayenne powder (optional)",
+      "bigTNote": "Allspice, cinnamon and thyme distinguish this seasoning from the other blends, adding another flavor direction to meals shared around the table."
     },
     {
       "id": "chili-rub",
@@ -3639,7 +3668,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "K2: Chili Rub\nK3: ▢1 tablespoon chili powder\nK4: ▢2 teaspoon brown sugar\nK5: ▢1 tablespoon garlic powder\nK6: ▢1 teaspoon kosher salt\nK7: ▢1/2 teaspoon black pepper"
+      "originalText": "K2: Chili Rub\nK3: ▢1 tablespoon chili powder\nK4: ▢2 teaspoon brown sugar\nK5: ▢1 tablespoon garlic powder\nK6: ▢1 teaspoon kosher salt\nK7: ▢1/2 teaspoon black pepper",
+      "bigTNote": "Chili powder and garlic lead this short ingredient list. Brown sugar, salt and black pepper make it a straightforward addition to the seasoning collection."
     },
     {
       "id": "chili-seasoning-mix",
@@ -3739,7 +3769,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "D2: Chili Seasoning Mix:\nD4: 1/2 cup chili powder\nD5: 1/4 cup garlic powder\nD6: 3 tablespoons onion powder\nD7: 1/4 cup oregano\nD8: 2 tablespoons paprika\nD9: 1/4 cup cumin\nD10: 1 tablespoon thyme"
+      "originalText": "D2: Chili Seasoning Mix:\nD4: 1/2 cup chili powder\nD5: 1/4 cup garlic powder\nD6: 3 tablespoons onion powder\nD7: 1/4 cup oregano\nD8: 2 tablespoons paprika\nD9: 1/4 cup cumin\nD10: 1 tablespoon thyme",
+      "bigTNote": "Chili powder, cumin and oregano form the core of this mix—a pantry seasoning for a pot of chili that people can gather around."
     },
     {
       "id": "everything-bagel-seasoning",
@@ -3828,7 +3859,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "N1: Everything Bagel Seasoning\nN2: 2 tablespoons poppy seeds\nN3: 1 tablespoon white sesame seeds\nN4: 1 tablespoon black sesame seeds\nN5: 1 tablespoon plus 1 teaspoon dried minced garlic\nN6: 1 tablespoon plus 1 teaspoon dried minced onion\nN7: 2 teaspoons  flaked sea salt or coarse salt"
+      "originalText": "N1: Everything Bagel Seasoning\nN2: 2 tablespoons poppy seeds\nN3: 1 tablespoon white sesame seeds\nN4: 1 tablespoon black sesame seeds\nN5: 1 tablespoon plus 1 teaspoon dried minced garlic\nN6: 1 tablespoon plus 1 teaspoon dried minced onion\nN7: 2 teaspoons  flaked sea salt or coarse salt",
+      "bigTNote": "Poppy seeds, two sesame seeds, garlic and onion broaden the collection beyond meat rubs, adding a savory topping for everyday food at the table."
     },
     {
       "id": "fajita-seasoning",
@@ -3928,7 +3960,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "C2: Fajita Seasoning:\nC4: 1/4 cup chili powder\nC5: 2 tablespoons Sea Salt\nC6: 2 tablespoons Paprika\nC7: 1 tablespoon onion powder\nC8: 1 tablespoon garlic powder\nC9: 1 teaspoon cayenne powder (optional)\nC10: 1 tablespoon cumin powder"
+      "originalText": "C2: Fajita Seasoning:\nC4: 1/4 cup chili powder\nC5: 2 tablespoons Sea Salt\nC6: 2 tablespoons Paprika\nC7: 1 tablespoon onion powder\nC8: 1 tablespoon garlic powder\nC9: 1 teaspoon cayenne powder (optional)\nC10: 1 tablespoon cumin powder",
+      "bigTNote": "Chili powder, paprika and cumin give this fajita blend its base, with optional cayenne offering a way to adjust the heat for the table."
     },
     {
       "id": "game-seasoning-blend",
@@ -4072,7 +4105,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "G2: Game Seasoning Blend\nG3: 1/3 cup salt\nG4: 1/4 cup white pepper\nG5: 1/4 cup dry mustard\nG6: 1/4 cup onion powder\nG7: 1/4 cup garlic powder\nG8: 2 1/2 tablespoons paprika\nG9: 2 tablespoons black pepper\nG10: 2 tablespoons dried thyme\nG11: 2 tablespoons dried oregano\nG12: 2 teaspoons filé powder\nG13: 1 1/2 teaspoons cayenne pepper"
+      "originalText": "G2: Game Seasoning Blend\nG3: 1/3 cup salt\nG4: 1/4 cup white pepper\nG5: 1/4 cup dry mustard\nG6: 1/4 cup onion powder\nG7: 1/4 cup garlic powder\nG8: 2 1/2 tablespoons paprika\nG9: 2 tablespoons black pepper\nG10: 2 tablespoons dried thyme\nG11: 2 tablespoons dried oregano\nG12: 2 teaspoons filé powder\nG13: 1 1/2 teaspoons cayenne pepper",
+      "bigTNote": "A blend explicitly meant for game connects to Big T’s interest in processing his own harvest. Mustard, paprika, herbs and pepper shape its seasoning profile."
     },
     {
       "id": "grilled-hamburger-seasoning",
@@ -4183,7 +4217,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "M1: Grilled Hamburger Seasoning\nM2: 2 tablespoons paprika\nM3: 2 tablespoons smoked paprika\nM4: 4 tablespoons ground black pepper\nM5: 2 teaspoons salt\nM6: 1 tablespoon brown sugar\nM7: 1/2 tablespoon garlic powder\nM8: 1/2 tablespoon onion powder\nM9: 1/2 teaspoon cumin\nM10: 1 1/2 Tablespoons per pound of hamburger, mix well, patty and grill"
+      "originalText": "M1: Grilled Hamburger Seasoning\nM2: 2 tablespoons paprika\nM3: 2 tablespoons smoked paprika\nM4: 4 tablespoons ground black pepper\nM5: 2 teaspoons salt\nM6: 1 tablespoon brown sugar\nM7: 1/2 tablespoon garlic powder\nM8: 1/2 tablespoon onion powder\nM9: 1/2 teaspoon cumin\nM10: 1 1/2 Tablespoons per pound of hamburger, mix well, patty and grill",
+      "bigTNote": "Two paprikas, black pepper and brown sugar give this hamburger blend its character. The source ties it directly to mixing, forming and grilling patties."
     },
     {
       "id": "homemade-rajin-cajun-seasoning",
@@ -4294,7 +4329,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "A2: Homemade Rajin’ Cajun Seasoning:\nA4: 1/2 cup paprika\nA5: 1/3 cup Himalayan Salt or sea salt\nA6: 1/4 cup Garlic Powder\nA7: 2 Tablespoons Black Pepper\nA8: 2 Tablespoons Onion Powder\nA9: 1 Tablespoon Cayenne Pepper (optional- won’t be spicy without this)\nA10: 2 Tablespoons Oregano leaf\nA11: 1 Tablespoon Thyme leaf"
+      "originalText": "A2: Homemade Rajin’ Cajun Seasoning:\nA4: 1/2 cup paprika\nA5: 1/3 cup Himalayan Salt or sea salt\nA6: 1/4 cup Garlic Powder\nA7: 2 Tablespoons Black Pepper\nA8: 2 Tablespoons Onion Powder\nA9: 1 Tablespoon Cayenne Pepper (optional- won’t be spicy without this)\nA10: 2 Tablespoons Oregano leaf\nA11: 1 Tablespoon Thyme leaf",
+      "bigTNote": "Paprika, garlic and herbs make up this Cajun-style blend, with optional cayenne allowing different heat preferences to fit around one table."
     },
     {
       "id": "hot-and-spicy-bbq",
@@ -4460,7 +4496,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "H2: Hot and Spicy BBQ\nH3: ½ cup sweet paprika\nH4: ¼ cup chili powder\nH5: 3 tbsp. salt\nH6: 2 tbsp. ground coriander\nH7: 2 tbsp. garlic powder\nH8: 2 tbsp. granulated sugar\nH9: 2 tbsp. curry powder\nH10: 2 tbsp. hot mustard powder\nH11: 1 tbsp. freshly ground black pepper\nH12: 1 tbsp. dried basil\nH13: 1 tbsp. dried thyme\nH14: 1 tbsp. ground cumin\nH15: 1 tbsp. cayenne pepper"
+      "originalText": "H2: Hot and Spicy BBQ\nH3: ½ cup sweet paprika\nH4: ¼ cup chili powder\nH5: 3 tbsp. salt\nH6: 2 tbsp. ground coriander\nH7: 2 tbsp. garlic powder\nH8: 2 tbsp. granulated sugar\nH9: 2 tbsp. curry powder\nH10: 2 tbsp. hot mustard powder\nH11: 1 tbsp. freshly ground black pepper\nH12: 1 tbsp. dried basil\nH13: 1 tbsp. dried thyme\nH14: 1 tbsp. ground cumin\nH15: 1 tbsp. cayenne pepper",
+      "bigTNote": "Curry powder, hot mustard and cayenne distinguish this BBQ seasoning, offering a more assertive spice option within the collection."
     },
     {
       "id": "jerky-seasoning",
@@ -4567,7 +4604,8 @@
         "The source gives drying times without a meat internal-temperature step."
       ],
       "scalingAllowed": true,
-      "originalText": "A3: Jerky Seasoning\nD4: 5.0\nC6: Pounds\nD6: Ounces\nB7: Salt\nC7: 3.125\nD7: 50\nE7: 0.625\nB8: Garlic\nC8: 0.2625\nD8: 4.2\nE8: 0.0525\nB9: Black Pepper\nC9: 1.425\nD9: 22.8\nE9: 0.285\nB10: Onion Powder\nC10: 0.0625\nD10: 1\nE10: 0.0125\nB11: Brown Sugar\nC11: 0.1\nD11: 1.6\nE11: 0.02\nB12: Meat Tenderizer\nC12: 0.0375\nD12: 0.6\nE12: 0.0075\nC13: 5.0125\nD13: 80.2\nE13: 1.0025\nA15: Directions\nA16: Remove all fat from Surface of Meat. Cut meat in to 1/4\" strips approximately 3\" or whatever length you desire.\nA17: Take a rectangle square pan and sprinkle the rub on the pan until you cover the bottom. Next place a layer of meat\nA18: in the pan. Sprinkle more rub on top until everything is thoroughly coated. Now continue to place layers until you run out\nA19: of meat. Always cover the last layer with the rub mixture. Cover the top with foil and place in the refrigerator for 24-36 hours.\nA21: Smokehouse\nA22: Place in the smoke house on racks at about 150 degrees and smoke the product for approximately 1 hour. Continue to cook product\nA23: for an additional 10 hours or until it reaches the optimum chewiness you desire. Remove and let cool and package.\nA25: Dehydrator-- To add smoke flavor dip the meat in liquid smoke before placing it in the seasoning pan.\nA26: Layer in product leaving space for air to flow in between the racks. Set dehydrator on it's hottest setting (around 155-165)\nA27: and let it go for 8 hours. Check periodically for the proper chewiness.\nA30: Teriyaki Flavor\nA31: If you want to add some teriyaki flavor. Buy Teriyaki sauce (looks like Soy Sauce not the thick sweet version)\nA32: and marinate the meat in it for about 45 minutes before you do the rub."
+      "originalText": "A3: Jerky Seasoning\nD4: 5.0\nC6: Pounds\nD6: Ounces\nB7: Salt\nC7: 3.125\nD7: 50\nE7: 0.625\nB8: Garlic\nC8: 0.2625\nD8: 4.2\nE8: 0.0525\nB9: Black Pepper\nC9: 1.425\nD9: 22.8\nE9: 0.285\nB10: Onion Powder\nC10: 0.0625\nD10: 1\nE10: 0.0125\nB11: Brown Sugar\nC11: 0.1\nD11: 1.6\nE11: 0.02\nB12: Meat Tenderizer\nC12: 0.0375\nD12: 0.6\nE12: 0.0075\nC13: 5.0125\nD13: 80.2\nE13: 1.0025\nA15: Directions\nA16: Remove all fat from Surface of Meat. Cut meat in to 1/4\" strips approximately 3\" or whatever length you desire.\nA17: Take a rectangle square pan and sprinkle the rub on the pan until you cover the bottom. Next place a layer of meat\nA18: in the pan. Sprinkle more rub on top until everything is thoroughly coated. Now continue to place layers until you run out\nA19: of meat. Always cover the last layer with the rub mixture. Cover the top with foil and place in the refrigerator for 24-36 hours.\nA21: Smokehouse\nA22: Place in the smoke house on racks at about 150 degrees and smoke the product for approximately 1 hour. Continue to cook product\nA23: for an additional 10 hours or until it reaches the optimum chewiness you desire. Remove and let cool and package.\nA25: Dehydrator-- To add smoke flavor dip the meat in liquid smoke before placing it in the seasoning pan.\nA26: Layer in product leaving space for air to flow in between the racks. Set dehydrator on it's hottest setting (around 155-165)\nA27: and let it go for 8 hours. Check periodically for the proper chewiness.\nA30: Teriyaki Flavor\nA31: If you want to add some teriyaki flavor. Buy Teriyaki sauce (looks like Soy Sauce not the thick sweet version)\nA32: and marinate the meat in it for about 45 minutes before you do the rub.",
+      "bigTNote": "Jerky connects the collection to Big T’s interest in processing game. This entry records a salt and pepper seasoning blend and separate preparation notes."
     },
     {
       "id": "seasoned-salt-recipe",
@@ -4669,7 +4707,8 @@
         "This source recipe is titled Seasoned Salt Recipe but does not list a salt quantity. No salt amount has been added."
       ],
       "scalingAllowed": true,
-      "originalText": "B2: Seasoned Salt Recipe:\nB4: 1/4 cup onion powder\nB5: 1/4 cup garlic powder\nB6: 1/4 cup black pepper (ground)\nB7: 2 tablespoons chili powder\nB8: 3 tablespoons paprika\nB9: 2 tablespoons dried parsley leaf (optional)\nB10: 1 tablespoon ground red pepper flakes (optional)"
+      "originalText": "B2: Seasoned Salt Recipe:\nB4: 1/4 cup onion powder\nB5: 1/4 cup garlic powder\nB6: 1/4 cup black pepper (ground)\nB7: 2 tablespoons chili powder\nB8: 3 tablespoons paprika\nB9: 2 tablespoons dried parsley leaf (optional)\nB10: 1 tablespoon ground red pepper flakes (optional)",
+      "bigTNote": "Onion, garlic, pepper and paprika fill out this collected seasoning. Its source title and ingredient list differ, so the original recipe detail remains visible."
     },
     {
       "id": "steak-seasoning",
@@ -4780,7 +4819,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "L1: Steak seasoning\nL2: 2 Tablespoons fresh cracked black pepper\nL3: ▢2 Tablespoons kosher salt\nL4: ▢2 Tablespoons paprika\nL5: ▢1 Tablespoon crushed red pepper flakes\nL6: ▢1 Tablespoon crushed coriander seeds (not ground)\nL7: ▢1 Tablespoon garlic powder\nL8: ▢1 Tablespoon onion powder\nL9: ▢2 teaspoons cayenne pepper"
+      "originalText": "L1: Steak seasoning\nL2: 2 Tablespoons fresh cracked black pepper\nL3: ▢2 Tablespoons kosher salt\nL4: ▢2 Tablespoons paprika\nL5: ▢1 Tablespoon crushed red pepper flakes\nL6: ▢1 Tablespoon crushed coriander seeds (not ground)\nL7: ▢1 Tablespoon garlic powder\nL8: ▢1 Tablespoon onion powder\nL9: ▢2 teaspoons cayenne pepper",
+      "bigTNote": "Cracked pepper, coriander and red pepper flakes give this steak blend texture and spice—a seasoning option for a meat meal."
     },
     {
       "id": "texas-roadhouse-steak-seasoning",
@@ -4902,7 +4942,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "I2: Texas Roadhouse steak seasoning\nI3: 1 tablespoon kosher salt\nI4: 2 teaspoons brown sugar\nI5: 1 teaspoon freshly ground black pepper\nI6: ½ teaspoon paprika\nI7: ½ teaspoon chili powder\nI8: ¼ teaspoon garlic powder\nI9: ¼ teaspoon garlic salt\nI10: ¼ teaspoon onion powder\nI11: ¼ teaspoon turmeric"
+      "originalText": "I2: Texas Roadhouse steak seasoning\nI3: 1 tablespoon kosher salt\nI4: 2 teaspoons brown sugar\nI5: 1 teaspoon freshly ground black pepper\nI6: ½ teaspoon paprika\nI7: ½ teaspoon chili powder\nI8: ¼ teaspoon garlic powder\nI9: ¼ teaspoon garlic salt\nI10: ¼ teaspoon onion powder\nI11: ¼ teaspoon turmeric",
+      "bigTNote": "This collected steak blend combines salt and brown sugar with pepper, paprika and turmeric, adding another option for seasoning cuts at home."
     },
     {
       "id": "ultimate-burger-blend",
@@ -5004,7 +5045,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "O1: Ultimate Burger Blend\nO2: 1 tablespoon paprika\nO3: 1 tablespoon garlic powder\nO4: 1 tablespoon onion powder\nO5: 1 tablespoon ground black pepper\nO6: 1 tablespoon ground mustard\nO7: 1 teaspoon salt\nO8: 1/2 teaspoon cayenne pepper (optional for extra heat)\nO9: Directions:\nO10: In a small bowl, combine the paprika, garlic powder, onion powder, ground black pepper, ground mustard, salt, and cayenne pepper (if using).\nO11: Mix well until all the ingredients are evenly distributed.\nO12: Store the burger seasoning in an airtight container until ready to use."
+      "originalText": "O1: Ultimate Burger Blend\nO2: 1 tablespoon paprika\nO3: 1 tablespoon garlic powder\nO4: 1 tablespoon onion powder\nO5: 1 tablespoon ground black pepper\nO6: 1 tablespoon ground mustard\nO7: 1 teaspoon salt\nO8: 1/2 teaspoon cayenne pepper (optional for extra heat)\nO9: Directions:\nO10: In a small bowl, combine the paprika, garlic powder, onion powder, ground black pepper, ground mustard, salt, and cayenne pepper (if using).\nO11: Mix well until all the ingredients are evenly distributed.\nO12: Store the burger seasoning in an airtight container until ready to use.",
+      "bigTNote": "Paprika, garlic, onion and mustard form this burger seasoning. It supports the patty-making side of a collection that also includes several game burgers."
     },
     {
       "id": "andouille",
@@ -5205,7 +5247,8 @@
         "Contains a curing ingredient. Automatic scaling is disabled; the workbook quantities and curing details require review before use."
       ],
       "scalingAllowed": false,
-      "originalText": "G26: Andouille\nG28: Total Weight\nH28: 10.0\nH31: lbs\nI31: oz's.\nG32: Pork butt\nH32: 4.8\nI32: 76.8\nJ32: 0.48\nG33: Venison\nH33: 4.8\nI33: 76.8\nJ33: 0.48\nG34: Garlic\nH34: 0.018\nI34: 0.288\nJ34: 0.0018\nG35: Sage\nH35: 0.01\nI35: 0.16\nJ35: 0.001\nG36: Black Pepper\nH36: 0.028\nI36: 0.448\nJ36: 0.0028\nG37: Crushed red pepper\nH37: 0.012\nI37: 0.192\nJ37: 0.0012\nG38: Cure\nH38: 0.002\nI38: 0.032\nJ38: 0.0002\nG39: Ginger\nH39: 0.005\nI39: 0.08\nJ39: 0.0005\nG40: Salt\nH40: 0.18\nI40: 2.88\nJ40: 0.018\nG41: Cayenne Pepper\nH41: 0.011\nI41: 0.176\nJ41: 0.0011\nG42: Sugar\nH42: 0.05\nI42: 0.8\nJ42: 0.005\nG43: Water\nH43: 0.25\nI43: 4\nJ43: 0.025\nG44: Cure\nH44: 0.015\nI44: 0.24\nJ44: 0.0015\nG46: Total\nH46: 10.181"
+      "originalText": "G26: Andouille\nG28: Total Weight\nH28: 10.0\nH31: lbs\nI31: oz's.\nG32: Pork butt\nH32: 4.8\nI32: 76.8\nJ32: 0.48\nG33: Venison\nH33: 4.8\nI33: 76.8\nJ33: 0.48\nG34: Garlic\nH34: 0.018\nI34: 0.288\nJ34: 0.0018\nG35: Sage\nH35: 0.01\nI35: 0.16\nJ35: 0.001\nG36: Black Pepper\nH36: 0.028\nI36: 0.448\nJ36: 0.0028\nG37: Crushed red pepper\nH37: 0.012\nI37: 0.192\nJ37: 0.0012\nG38: Cure\nH38: 0.002\nI38: 0.032\nJ38: 0.0002\nG39: Ginger\nH39: 0.005\nI39: 0.08\nJ39: 0.0005\nG40: Salt\nH40: 0.18\nI40: 2.88\nJ40: 0.018\nG41: Cayenne Pepper\nH41: 0.011\nI41: 0.176\nJ41: 0.0011\nG42: Sugar\nH42: 0.05\nI42: 0.8\nJ42: 0.005\nG43: Water\nH43: 0.25\nI43: 4\nJ43: 0.025\nG44: Cure\nH44: 0.015\nI44: 0.24\nJ44: 0.0015\nG46: Total\nH46: 10.181",
+      "bigTNote": "This pork and venison formula connects to Big T’s interest in processing his own game, with sage, garlic and red pepper among its seasonings."
     },
     {
       "id": "brown-sugar-breakfast-sausage",
@@ -5328,7 +5371,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "C4: Per 2 pounds ground pork\nC5: 1 tablespoon brown sugar\nC6: 2 teaspoons dried sage\nC7: 2 teaspoons salt\nC8: 1 teaspoon ground black pepper\nC9: ¼ teaspoon dried marjoram\nC10: ⅛ teaspoon crushed red pepper flakes\nC11: 1 pinch ground cloves\nC12: 1/2 teaspoon MSG"
+      "originalText": "C4: Per 2 pounds ground pork\nC5: 1 tablespoon brown sugar\nC6: 2 teaspoons dried sage\nC7: 2 teaspoons salt\nC8: 1 teaspoon ground black pepper\nC9: ¼ teaspoon dried marjoram\nC10: ⅛ teaspoon crushed red pepper flakes\nC11: 1 pinch ground cloves\nC12: 1/2 teaspoon MSG",
+      "bigTNote": "Ground pork, brown sugar and sage give this breakfast sausage its direction—a breakfast counterpart to the collection’s BBQ recipes."
     },
     {
       "id": "english-banger-sausage",
@@ -5529,7 +5573,8 @@
         "Contains a curing ingredient. Automatic scaling is disabled; the workbook quantities and curing details require review before use."
       ],
       "scalingAllowed": false,
-      "originalText": "A122: English Banger Sausage\nA125: Total Weight\nB125: 10.0\nB127: lbs\nC127: oz's.\nA128: Pork\nB128: 4.7\nC128: 75.2\nD128: 0.47\nA129: Venison\nB129: 4.7\nC129: 75.2\nD129: 0.47\nA130: Bread Crumb\nB130: 0.05\nC130: 0.8\nD130: 0.005\nA131: White Pepper\nB131: 0.0312\nC131: 0.4992\nD131: 0.00312\nA132: Salt\nB132: 0.18\nC132: 2.88\nD132: 0.018\nA133: Ginger\nB133: 0.0156\nC133: 0.2496\nD133: 0.00156\nA134: Mace\nB134: 0.0234\nC134: 0.3744\nD134: 0.00234\nA135: Sugar\nB135: 0.1\nC135: 1.6\nD135: 0.01\nA136: Dextrose\nB136: 0\nC136: 0\nD136: 0.0\nA137: Honey\nB137: 0.075\nC137: 1.2\nD137: 0.0075\nA138: Sage\nB138: 0.0078\nC138: 0.1248\nD138: 0.00078\nA139: Water\nB139: 0.15\nC139: 2.4\nD139: 0.015\nA140: Cure\nB140: 0\nC140: 0\nD140: 0.0\nA143: Total\nB143: 10.033"
+      "originalText": "A122: English Banger Sausage\nA125: Total Weight\nB125: 10.0\nB127: lbs\nC127: oz's.\nA128: Pork\nB128: 4.7\nC128: 75.2\nD128: 0.47\nA129: Venison\nB129: 4.7\nC129: 75.2\nD129: 0.47\nA130: Bread Crumb\nB130: 0.05\nC130: 0.8\nD130: 0.005\nA131: White Pepper\nB131: 0.0312\nC131: 0.4992\nD131: 0.00312\nA132: Salt\nB132: 0.18\nC132: 2.88\nD132: 0.018\nA133: Ginger\nB133: 0.0156\nC133: 0.2496\nD133: 0.00156\nA134: Mace\nB134: 0.0234\nC134: 0.3744\nD134: 0.00234\nA135: Sugar\nB135: 0.1\nC135: 1.6\nD135: 0.01\nA136: Dextrose\nB136: 0\nC136: 0\nD136: 0.0\nA137: Honey\nB137: 0.075\nC137: 1.2\nD137: 0.0075\nA138: Sage\nB138: 0.0078\nC138: 0.1248\nD138: 0.00078\nA139: Water\nB139: 0.15\nC139: 2.4\nD139: 0.015\nA140: Cure\nB140: 0\nC140: 0\nD140: 0.0\nA143: Total\nB143: 10.033",
+      "bigTNote": "Pork and venison bring this formula into the game processing side of the recipe box, with white pepper, mace, honey and sage adding distinct seasonings."
     },
     {
       "id": "fresh-bratwurst-pork-and-venison",
@@ -5688,7 +5733,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "A48: Fresh Bratwurst\nA49: Pork and Venison\nA51: Total Weight\nB51: 5.0\nB53: lbs\nC53: oz's.\nA54: Pork butt\nB54: 2.4\nC54: 38.4\nD54: 0.48\nA55: Venison\nB55: 2.4\nC55: 38.4\nD55: 0.48\nA56: Garlic Powder\nB56: 0.006\nC56: 0.096\nD56: 0.0012\nA57: Black Pepper\nB57: 0.024\nC57: 0.384\nD57: 0.0048\nA58: Salt\nB58: 0.085\nC58: 1.36\nD58: 0.017\nA59: Mace\nB59: 0.003\nC59: 0.048\nD59: 0.0006\nA60: Marjoram\nB60: 0.003\nC60: 0.048\nD60: 0.0006\nA61: Sugar\nB61: 0.025\nC61: 0.4\nD61: 0.005\nA62: Fresh onion\nB62: 0.0175\nC62: 0.28\nD62: 0.0035\nA63: Water\nB63: 0.125\nC63: 2\nD63: 0.025\nA67: Total\nB67: 5.0885"
+      "originalText": "A48: Fresh Bratwurst\nA49: Pork and Venison\nA51: Total Weight\nB51: 5.0\nB53: lbs\nC53: oz's.\nA54: Pork butt\nB54: 2.4\nC54: 38.4\nD54: 0.48\nA55: Venison\nB55: 2.4\nC55: 38.4\nD55: 0.48\nA56: Garlic Powder\nB56: 0.006\nC56: 0.096\nD56: 0.0012\nA57: Black Pepper\nB57: 0.024\nC57: 0.384\nD57: 0.0048\nA58: Salt\nB58: 0.085\nC58: 1.36\nD58: 0.017\nA59: Mace\nB59: 0.003\nC59: 0.048\nD59: 0.0006\nA60: Marjoram\nB60: 0.003\nC60: 0.048\nD60: 0.0006\nA61: Sugar\nB61: 0.025\nC61: 0.4\nD61: 0.005\nA62: Fresh onion\nB62: 0.0175\nC62: 0.28\nD62: 0.0035\nA63: Water\nB63: 0.125\nC63: 2\nD63: 0.025\nA67: Total\nB67: 5.0885",
+      "bigTNote": "This pork and venison bratwurst connects directly to Big T’s interest in preparing his own game, with mace, marjoram and onion shaping the seasoning."
     },
     {
       "id": "fresh-chorizo",
@@ -5885,7 +5931,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "A97: Fresh Chorizo\nA98: Total Weight\nB98: 10.0\nB100: lbs\nC100: oz's.\nA101: Pork butt\nB101: 9.8\nC101: 156.8\nD101: 0.98\nA102: Chili Powder\nB102: 0.045\nC102: 0.72\nD102: 0.0045\nA103: Oregano\nB103: 0.012\nC103: 0.192\nD103: 0.0012\nA104: Cumin\nB104: 0.012\nC104: 0.192\nD104: 0.0012\nA105: Ground Onion\nB105: 0.012\nC105: 0.192\nD105: 0.0012\nA106: Granulated Garlic\nB106: 0.012\nC106: 0.192\nD106: 0.0012\nA107: Black Pepper\nB107: 0.03\nC107: 0.48\nD107: 0.003\nA108: Salt\nB108: 0.18\nC108: 2.88\nD108: 0.018\nA109: Paprika\nB109: 0.1\nC109: 1.6\nD109: 0.01\nA110: Crushed Red Pepper\nB110: 0.06\nC110: 0.96\nD110: 0.006\nA111: Sugar\nB111: 0.05\nC111: 0.8\nD111: 0.005\nA112: Vinegar\nB112: 0.04\nC112: 0.64\nD112: 0.004\nA113: Water\nB113: 0.06\nC113: 0.96\nD113: 0.006\nA116: Total\nB116: 10.413"
+      "originalText": "A97: Fresh Chorizo\nA98: Total Weight\nB98: 10.0\nB100: lbs\nC100: oz's.\nA101: Pork butt\nB101: 9.8\nC101: 156.8\nD101: 0.98\nA102: Chili Powder\nB102: 0.045\nC102: 0.72\nD102: 0.0045\nA103: Oregano\nB103: 0.012\nC103: 0.192\nD103: 0.0012\nA104: Cumin\nB104: 0.012\nC104: 0.192\nD104: 0.0012\nA105: Ground Onion\nB105: 0.012\nC105: 0.192\nD105: 0.0012\nA106: Granulated Garlic\nB106: 0.012\nC106: 0.192\nD106: 0.0012\nA107: Black Pepper\nB107: 0.03\nC107: 0.48\nD107: 0.003\nA108: Salt\nB108: 0.18\nC108: 2.88\nD108: 0.018\nA109: Paprika\nB109: 0.1\nC109: 1.6\nD109: 0.01\nA110: Crushed Red Pepper\nB110: 0.06\nC110: 0.96\nD110: 0.006\nA111: Sugar\nB111: 0.05\nC111: 0.8\nD111: 0.005\nA112: Vinegar\nB112: 0.04\nC112: 0.64\nD112: 0.004\nA113: Water\nB113: 0.06\nC113: 0.96\nD113: 0.006\nA116: Total\nB116: 10.413",
+      "bigTNote": "Chili powder, paprika, cumin and oregano give this pork formula a different direction within the collection’s practical sausage-making recipes."
     },
     {
       "id": "fresh-herb-breakfast-sausage",
@@ -6031,7 +6078,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "B5: 2 pounds pork butt (2 1/2 pounds with bone), diced into 1/4-inch pieces\nB6: 1/2 pound fat back, diced into 1/4-inch pieces\nB7: 2 teaspoons kosher salt\nB8: 1 1/2 teaspoons freshly ground black pepper\nB9: 2 teaspoons finely chopped fresh sage leaves\nB10: 2 teaspoons finely chopped fresh thyme leaves\nB11: 1/2 teaspoon finely chopped fresh rosemary leaves\nB12: 1 tablespoon light brown sugar\nB13: 1/2 teaspoon fresh grated nutmeg\nB14: 1/2 teaspoon cayenne pepper\nB15: 1/2 teaspoon red pepper flakes"
+      "originalText": "B5: 2 pounds pork butt (2 1/2 pounds with bone), diced into 1/4-inch pieces\nB6: 1/2 pound fat back, diced into 1/4-inch pieces\nB7: 2 teaspoons kosher salt\nB8: 1 1/2 teaspoons freshly ground black pepper\nB9: 2 teaspoons finely chopped fresh sage leaves\nB10: 2 teaspoons finely chopped fresh thyme leaves\nB11: 1/2 teaspoon finely chopped fresh rosemary leaves\nB12: 1 tablespoon light brown sugar\nB13: 1/2 teaspoon fresh grated nutmeg\nB14: 1/2 teaspoon cayenne pepper\nB15: 1/2 teaspoon red pepper flakes",
+      "bigTNote": "Fresh sage, thyme and rosemary bring an herbal approach to pork breakfast sausage, extending the recipe box from BBQ meals to the morning table."
     },
     {
       "id": "fresh-pork-venison-pan-sausage",
@@ -6216,7 +6264,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "G48: Fresh Pork & Venison\nG49: Pan Sausage\nG51: Total Weight\nH51: 10.0\nH53: lbs\nI53: oz's.\nG54: Pork butt\nH54: 4.8\nI54: 76.8\nJ54: 0.48\nG55: Venison\nH55: 4.8\nI55: 76.8\nJ55: 0.48\nG56: Garlic\nH56: 0.015\nI56: 0.24\nJ56: 0.0015\nG57: Black Pepper\nH57: 0.048\nI57: 0.768\nJ57: 0.0048\nG58: Salt\nH58: 0.175\nI58: 2.8\nJ58: 0.0175\nG59: Ginger\nH59: 0.003\nI59: 0.048\nJ59: 0.0003\nG60: Nutmeg\nH60: 0.003\nI60: 0.048\nJ60: 0.0003\nG61: Sugar\nH61: 0.05\nI61: 0.8\nJ61: 0.005\nG62: Thyme\nH62: 0.005\nI62: 0.08\nJ62: 0.0005\nG63: Crushed red pepper\nH63: 0.03\nI63: 0.48\nJ63: 0.003\nG64: Sage\nH64: 0.016\nI64: 0.256\nJ64: 0.0016\nG65: Water\nH65: 0.25\nI65: 4\nJ65: 0.025\nG67: Total\nH67: 10.195"
+      "originalText": "G48: Fresh Pork & Venison\nG49: Pan Sausage\nG51: Total Weight\nH51: 10.0\nH53: lbs\nI53: oz's.\nG54: Pork butt\nH54: 4.8\nI54: 76.8\nJ54: 0.48\nG55: Venison\nH55: 4.8\nI55: 76.8\nJ55: 0.48\nG56: Garlic\nH56: 0.015\nI56: 0.24\nJ56: 0.0015\nG57: Black Pepper\nH57: 0.048\nI57: 0.768\nJ57: 0.0048\nG58: Salt\nH58: 0.175\nI58: 2.8\nJ58: 0.0175\nG59: Ginger\nH59: 0.003\nI59: 0.048\nJ59: 0.0003\nG60: Nutmeg\nH60: 0.003\nI60: 0.048\nJ60: 0.0003\nG61: Sugar\nH61: 0.05\nI61: 0.8\nJ61: 0.005\nG62: Thyme\nH62: 0.005\nI62: 0.08\nJ62: 0.0005\nG63: Crushed red pepper\nH63: 0.03\nI63: 0.48\nJ63: 0.003\nG64: Sage\nH64: 0.016\nI64: 0.256\nJ64: 0.0016\nG65: Water\nH65: 0.25\nI65: 4\nJ65: 0.025\nG67: Total\nH67: 10.195",
+      "bigTNote": "A pork and venison pan sausage connects game processing with everyday cooking, using sage, thyme and red pepper among its seasonings."
     },
     {
       "id": "hot-dogs-pork-and-venison",
@@ -6416,7 +6465,8 @@
         "Contains a curing ingredient. Automatic scaling is disabled; the workbook quantities and curing details require review before use."
       ],
       "scalingAllowed": false,
-      "originalText": "A70: Hot Dogs\nA71: Pork and Venison\nA73: Total Weight\nB73: 10.0\nB75: lbs\nC75: oz's.\nA76: Pork butt\nB76: 4.7\nC76: 75.2\nD76: 0.47\nA77: Venison\nB77: 4.7\nC77: 75.2\nD77: 0.47\nA78: Garlic Powder\nB78: 0.014\nC78: 0.224\nD78: 0.0014\nA79: Paprika\nB79: 0.012\nC79: 0.192\nD79: 0.0012\nA80: Nutmeg\nB80: 0.011\nC80: 0.176\nD80: 0.0011\nA81: Salt\nB81: 0.18\nC81: 2.88\nD81: 0.018\nA82: Ground Coriander\nB82: 0.012\nC82: 0.192\nD82: 0.0012\nA83: Ginger\nB83: 0.004\nC83: 0.064\nD83: 0.0004\nA84: Sugar\nB84: 0.05\nC84: 0.8\nD84: 0.005\nA85: Onion Powder\nB85: 0.01\nC85: 0.16\nD85: 0.001\nA86: Cure\nB86: 0.015\nC86: 0.24\nD86: 0.0015\nA87: Erythorbate\nB87: 0.01\nC87: 0.16\nD87: 0.001\nA88: Water\nB88: 0.35\nC88: 5.6\nD88: 0.035\nA92: Total\nB92: 10.068"
+      "originalText": "A70: Hot Dogs\nA71: Pork and Venison\nA73: Total Weight\nB73: 10.0\nB75: lbs\nC75: oz's.\nA76: Pork butt\nB76: 4.7\nC76: 75.2\nD76: 0.47\nA77: Venison\nB77: 4.7\nC77: 75.2\nD77: 0.47\nA78: Garlic Powder\nB78: 0.014\nC78: 0.224\nD78: 0.0014\nA79: Paprika\nB79: 0.012\nC79: 0.192\nD79: 0.0012\nA80: Nutmeg\nB80: 0.011\nC80: 0.176\nD80: 0.0011\nA81: Salt\nB81: 0.18\nC81: 2.88\nD81: 0.018\nA82: Ground Coriander\nB82: 0.012\nC82: 0.192\nD82: 0.0012\nA83: Ginger\nB83: 0.004\nC83: 0.064\nD83: 0.0004\nA84: Sugar\nB84: 0.05\nC84: 0.8\nD84: 0.005\nA85: Onion Powder\nB85: 0.01\nC85: 0.16\nD85: 0.001\nA86: Cure\nB86: 0.015\nC86: 0.24\nD86: 0.0015\nA87: Erythorbate\nB87: 0.01\nC87: 0.16\nD87: 0.001\nA88: Water\nB88: 0.35\nC88: 5.6\nD88: 0.035\nA92: Total\nB92: 10.068",
+      "bigTNote": "This pork and venison formula brings game into a familiar sausage format, reflecting the preparation side of Big T’s interest in his own harvest."
     },
     {
       "id": "italian-pork-and-venison",
@@ -6604,7 +6654,8 @@
         "Contains a curing ingredient. Automatic scaling is disabled; the workbook quantities and curing details require review before use."
       ],
       "scalingAllowed": false,
-      "originalText": "G70: Italian\nG71: Pork and Venison\nG73: Total Weight\nH73: 10.0\nH75: lbs\nI75: oz's.\nG76: Pork butt\nH76: 4.7\nI76: 75.2\nJ76: 0.47\nG77: Venison\nH77: 4.7\nI77: 75.2\nJ77: 0.47\nG78: Garlic Powder\nH78: 0.018\nI78: 0.288\nJ78: 0.0018\nG79: Paprika\nH79: 0.05\nI79: 0.8\nJ79: 0.005\nG80: Whole Fennel\nH80: 0.02\nI80: 0.32\nJ80: 0.002\nG81: Salt\nH81: 0.18\nI81: 2.88\nJ81: 0.018\nG82: Ground Coriander\nH82: 0.012\nI82: 0.192\nJ82: 0.0012\nG83: Sugar\nH83: 0.05\nI83: 0.8\nJ83: 0.005\nG84: Black Pepper\nH84: 0.025\nI84: 0.4\nJ84: 0.0025\nG85: Water\nH85: 0.35\nI85: 5.6\nJ85: 0.035\nG86: Crushed Red Pepper\nH86: 0.01\nI86: 0.16\nJ86: 0.001\nG87: Cure\nH87: 0.015\nI87: 0.24\nJ87: 0.0015\nG90: Total\nH90: 10.105"
+      "originalText": "G70: Italian\nG71: Pork and Venison\nG73: Total Weight\nH73: 10.0\nH75: lbs\nI75: oz's.\nG76: Pork butt\nH76: 4.7\nI76: 75.2\nJ76: 0.47\nG77: Venison\nH77: 4.7\nI77: 75.2\nJ77: 0.47\nG78: Garlic Powder\nH78: 0.018\nI78: 0.288\nJ78: 0.0018\nG79: Paprika\nH79: 0.05\nI79: 0.8\nJ79: 0.005\nG80: Whole Fennel\nH80: 0.02\nI80: 0.32\nJ80: 0.002\nG81: Salt\nH81: 0.18\nI81: 2.88\nJ81: 0.018\nG82: Ground Coriander\nH82: 0.012\nI82: 0.192\nJ82: 0.0012\nG83: Sugar\nH83: 0.05\nI83: 0.8\nJ83: 0.005\nG84: Black Pepper\nH84: 0.025\nI84: 0.4\nJ84: 0.0025\nG85: Water\nH85: 0.35\nI85: 5.6\nJ85: 0.035\nG86: Crushed Red Pepper\nH86: 0.01\nI86: 0.16\nJ86: 0.001\nG87: Cure\nH87: 0.015\nI87: 0.24\nJ87: 0.0015\nG90: Total\nH90: 10.105",
+      "bigTNote": "Whole fennel, coriander and red pepper distinguish this pork and venison formula, offering another approach within the game processing part of the collection."
     },
     {
       "id": "jimmy-dean-original",
@@ -6726,7 +6777,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "G3: Jimmy Dean Original\nG4: 16 ounces ground pork\nG5: ▢ ¾ teaspoon salt\nG6: ▢ ½ teaspoon dried parsley\nG7: ▢ ¼ teaspoon ground sage\nG8: ▢ ¼ teaspoon ground black pepper\nG9: ▢ ¼ teaspoon dried thyme\nG10: ▢ ¼ teaspoon crushed red pepper\nG11: ▢ ¼ teaspoon ground coriander\nG12: ▢ ½ teaspoon MSG such as Accent Flavor Enhancer"
+      "originalText": "G3: Jimmy Dean Original\nG4: 16 ounces ground pork\nG5: ▢ ¾ teaspoon salt\nG6: ▢ ½ teaspoon dried parsley\nG7: ▢ ¼ teaspoon ground sage\nG8: ▢ ¼ teaspoon ground black pepper\nG9: ▢ ¼ teaspoon dried thyme\nG10: ▢ ¼ teaspoon crushed red pepper\nG11: ▢ ¼ teaspoon ground coriander\nG12: ▢ ½ teaspoon MSG such as Accent Flavor Enhancer",
+      "bigTNote": "Sage, thyme and coriander give this collected pork sausage recipe its herbal profile. It adds a breakfast option to the sharing side of the recipe box."
     },
     {
       "id": "jimmy-dean-sage",
@@ -6870,7 +6922,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "F3: Jimmy Dean Sage\nF4: 16 ounces ground pork\nF5: ▢ 1 teaspoon salt\nF6: ▢ ¼ teaspoon Garlic Salt\nF7: ▢ ½ teaspoon dried parsley\nF8: ▢ ¾ teaspoon ground sage\nF9: ▢ ¼ teaspoon fresh coarse ground black pepper\nF10: ▢ ¼ teaspoon dried thyme\nF11: ▢ ¼ teaspoon crushed red pepper flakes\nF12: ▢ ¼ teaspoon ground coriander\nF13: ▢ ¼ teaspoon msg *Optional\nF14: ▢ ⅛ teaspoon Oregano"
+      "originalText": "F3: Jimmy Dean Sage\nF4: 16 ounces ground pork\nF5: ▢ 1 teaspoon salt\nF6: ▢ ¼ teaspoon Garlic Salt\nF7: ▢ ½ teaspoon dried parsley\nF8: ▢ ¾ teaspoon ground sage\nF9: ▢ ¼ teaspoon fresh coarse ground black pepper\nF10: ▢ ¼ teaspoon dried thyme\nF11: ▢ ¼ teaspoon crushed red pepper flakes\nF12: ▢ ¼ teaspoon ground coriander\nF13: ▢ ¼ teaspoon msg *Optional\nF14: ▢ ⅛ teaspoon Oregano",
+      "bigTNote": "Sage takes a larger role in this collected pork breakfast sausage, supported by thyme, parsley and red pepper—a breakfast entry in the collection."
     },
     {
       "id": "pork-venison-sausage-with-jalapeno-and-cheese",
@@ -7046,7 +7099,8 @@
         "Contains a curing ingredient. Automatic scaling is disabled; the workbook quantities and curing details require review before use."
       ],
       "scalingAllowed": false,
-      "originalText": "G4: Pork & Venison Sausage with Jalapeno and Cheese\nG6: Total Weight\nH6: 5.0\nH8: lbs\nI8: oz's.\nG9: Pork butt\nH9: 2.25\nI9: 36\nJ9: 0.45\nG10: Venison\nH10: 2.25\nI10: 36\nJ10: 0.45\nG11: Granulated Garlic\nH11: 0.0075\nI11: 0.12\nJ11: 0.0015\nG12: Black Pepper\nH12: 0.024\nI12: 0.384\nJ12: 0.0048\nG13: Salt\nH13: 0.09\nI13: 1.44\nJ13: 0.018\nG14: Cayenne Pepper\nH14: 0\nI14: 0\nJ14: 0.0\nG15: Sugar\nH15: 0.025\nI15: 0.4\nJ15: 0.005\nG16: Dry Jalapenos\nH16: 0.0325\nI16: 0.52\nJ16: 0.0065\nK16: sub 2-1 fresh jalapeno\nG17: Cheddar Cheese\nH17: 0.425\nI17: 6.8\nJ17: 0.085\nG18: Water\nH18: 0.175\nI18: 2.8\nJ18: 0.035\nG19: Cure\nH19: 0.0075\nI19: 0.12\nJ19: 0.0015\nG21: Total\nH21: 5.2865"
+      "originalText": "G4: Pork & Venison Sausage with Jalapeno and Cheese\nG6: Total Weight\nH6: 5.0\nH8: lbs\nI8: oz's.\nG9: Pork butt\nH9: 2.25\nI9: 36\nJ9: 0.45\nG10: Venison\nH10: 2.25\nI10: 36\nJ10: 0.45\nG11: Granulated Garlic\nH11: 0.0075\nI11: 0.12\nJ11: 0.0015\nG12: Black Pepper\nH12: 0.024\nI12: 0.384\nJ12: 0.0048\nG13: Salt\nH13: 0.09\nI13: 1.44\nJ13: 0.018\nG14: Cayenne Pepper\nH14: 0\nI14: 0\nJ14: 0.0\nG15: Sugar\nH15: 0.025\nI15: 0.4\nJ15: 0.005\nG16: Dry Jalapenos\nH16: 0.0325\nI16: 0.52\nJ16: 0.0065\nK16: sub 2-1 fresh jalapeno\nG17: Cheddar Cheese\nH17: 0.425\nI17: 6.8\nJ17: 0.085\nG18: Water\nH18: 0.175\nI18: 2.8\nJ18: 0.035\nG19: Cure\nH19: 0.0075\nI19: 0.12\nJ19: 0.0015\nG21: Total\nH21: 5.2865",
+      "bigTNote": "Venison and pork meet jalapeño and cheddar in this formula, connecting Big T’s interest in game processing with varied ingredients at the table."
     },
     {
       "id": "pork-and-venison-sausage",
@@ -7207,7 +7261,8 @@
         "Contains a curing ingredient. Automatic scaling is disabled; the workbook quantities and curing details require review before use."
       ],
       "scalingAllowed": false,
-      "originalText": "A4: Pork and Venison\nB4: Sausage\nA6: Total Weight\nB6: 10.0\nB8: lbs\nC8: oz's.\nA9: Pork butt\nB9: 4.5\nC9: 72\nD9: 0.45\nA10: venison\nB10: 5\nC10: 80\nD10: 0.5\nA11: Fresh Garlic\nB11: 0.08\nC11: 1.28\nD11: 0.008\nA12: Black Pepper\nB12: 0.048\nC12: 0.768\nD12: 0.0048\nA13: Salt\nB13: 0.18\nC13: 2.88\nD13: 0.018\nA14: Paprika\nB14: 0.005\nC14: 0.08\nD14: 0.0005\nA15: Cayenne Pepper\nB15: 0.011\nC15: 0.176\nD15: 0.0011\nA16: Sugar\nB16: 0.05\nC16: 0.8\nD16: 0.005\nA17: Water\nB17: 0.25\nC17: 4\nD17: 0.025\nA18: Cure (If smoked)\nB18: 0.015\nC18: 0.24\nD18: 0.0015\nA21: Total\nB21: 10.139"
+      "originalText": "A4: Pork and Venison\nB4: Sausage\nA6: Total Weight\nB6: 10.0\nB8: lbs\nC8: oz's.\nA9: Pork butt\nB9: 4.5\nC9: 72\nD9: 0.45\nA10: venison\nB10: 5\nC10: 80\nD10: 0.5\nA11: Fresh Garlic\nB11: 0.08\nC11: 1.28\nD11: 0.008\nA12: Black Pepper\nB12: 0.048\nC12: 0.768\nD12: 0.0048\nA13: Salt\nB13: 0.18\nC13: 2.88\nD13: 0.018\nA14: Paprika\nB14: 0.005\nC14: 0.08\nD14: 0.0005\nA15: Cayenne Pepper\nB15: 0.011\nC15: 0.176\nD15: 0.0011\nA16: Sugar\nB16: 0.05\nC16: 0.8\nD16: 0.005\nA17: Water\nB17: 0.25\nC17: 4\nD17: 0.025\nA18: Cure (If smoked)\nB18: 0.015\nC18: 0.24\nD18: 0.0015\nA21: Total\nB21: 10.139",
+      "bigTNote": "This pork and venison formula sits close to Big T’s interest in preparing his own game, with fresh garlic, pepper and paprika in the seasoning list."
     },
     {
       "id": "pork-breakfast-sausage",
@@ -7340,7 +7395,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "A4: Pork breakfast sausage\nA5: 5# Pork Shoulder\nA6: 1-1/2# Pork Fat\nA7: 3 Tbl Kosher Salt\nA8: 2-1/2 Tbl Dried Parsley\nA9: 1-1/4 tsp MSG/Accent\nA10: 1-1/4 tsp Whole Coriander Seed\nA11: 1-1/4 tsp Black Pepper\nA12: 1-1/4 tsp Sage\nA13: 1-1/4 tsp Thyme\nA14: 1 tsp Red Chili Flake"
+      "originalText": "A4: Pork breakfast sausage\nA5: 5# Pork Shoulder\nA6: 1-1/2# Pork Fat\nA7: 3 Tbl Kosher Salt\nA8: 2-1/2 Tbl Dried Parsley\nA9: 1-1/4 tsp MSG/Accent\nA10: 1-1/4 tsp Whole Coriander Seed\nA11: 1-1/4 tsp Black Pepper\nA12: 1-1/4 tsp Sage\nA13: 1-1/4 tsp Thyme\nA14: 1 tsp Red Chili Flake",
+      "bigTNote": "Pork shoulder and pork fat make this a breakfast sausage built from whole cuts, with coriander, sage and thyme carrying its seasonings."
     },
     {
       "id": "ryan-whitlock-s-kick-ass-sausage",
@@ -7468,7 +7524,8 @@
         "Contains a curing ingredient. Automatic scaling is disabled; the workbook quantities and curing details require review before use."
       ],
       "scalingAllowed": false,
-      "originalText": "B3: Ryan Whitlocks Kick Ass Sausage\nB4: 2.5 Lbs hamburger 73/27\nB5: 2.5 Venison\nB6: 3 tsp coarse black pepper\nB7: 3 tsp mustard seeds (whole)\nB8: 2.5 tsp Garlic salt\nB9: 4 Tbl Morton Tender Quick\nB10: 1 tsp Hickory Salt\nB11: 1 Tbl liquid smoke\nB12: 1 Tbl red pepper flakes\nB14: Mix and refridgerate, for 3 days (mixing each day)\nB15: Form into 1lb loafs\nB16: 170 Deg for 8hrs\nB17: Turning the loafs every 4 hrs"
+      "originalText": "B3: Ryan Whitlocks Kick Ass Sausage\nB4: 2.5 Lbs hamburger 73/27\nB5: 2.5 Venison\nB6: 3 tsp coarse black pepper\nB7: 3 tsp mustard seeds (whole)\nB8: 2.5 tsp Garlic salt\nB9: 4 Tbl Morton Tender Quick\nB10: 1 tsp Hickory Salt\nB11: 1 Tbl liquid smoke\nB12: 1 Tbl red pepper flakes\nB14: Mix and refridgerate, for 3 days (mixing each day)\nB15: Form into 1lb loafs\nB16: 170 Deg for 8hrs\nB17: Turning the loafs every 4 hrs",
+      "bigTNote": "Beef and venison connect this named recipe to the collection’s game processing side, with mustard seed, garlic and smoke flavor among its ingredients."
     },
     {
       "id": "sage-rosemary-breakfast-sausage",
@@ -7580,7 +7637,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "D4: Per 1lb of pork\nD5: 2 teaspoons dried sage\nD6: ▢1 teaspoon dried rosemary\nD7: ▢1 teaspoon dried oregano\nD8: ▢1 teaspoon salt\nD9: ▢1 teaspoon ground black pepper\nD10: ▢2 teaspoons onion powder\nD11: ▢2 teaspoons garlic powder"
+      "originalText": "D4: Per 1lb of pork\nD5: 2 teaspoons dried sage\nD6: ▢1 teaspoon dried rosemary\nD7: ▢1 teaspoon dried oregano\nD8: ▢1 teaspoon salt\nD9: ▢1 teaspoon ground black pepper\nD10: ▢2 teaspoons onion powder\nD11: ▢2 teaspoons garlic powder",
+      "bigTNote": "Sage, rosemary and oregano give this pork breakfast sausage its herbal character—a recipe for the sharing side of Big T’s interests."
     },
     {
       "id": "sage-breakfast-sausage",
@@ -7692,7 +7750,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "E4: 1 lb ground pork\nE5: 1.5 tsp ground sage\nE6: 1 tsp salt\nE7: 1 tsp pepper\nE8: 1/2 tsp oregano\nE9: 1/2 tsp garlic powder\nE10: 1/2 tsp onion powder\nE11: 1/4 tsp paprika, (optional)"
+      "originalText": "E4: 1 lb ground pork\nE5: 1.5 tsp ground sage\nE6: 1 tsp salt\nE7: 1 tsp pepper\nE8: 1/2 tsp oregano\nE9: 1/2 tsp garlic powder\nE10: 1/2 tsp onion powder\nE11: 1/4 tsp paprika, (optional)",
+      "bigTNote": "Sage, oregano and garlic season ground pork in this breakfast entry, bringing a simple morning meal into the wider BBQ and game recipe box."
     },
     {
       "id": "venison-pork-pepperoni",
@@ -7908,7 +7967,8 @@
         "Contains a curing ingredient. Automatic scaling is disabled; the workbook quantities and curing details require review before use."
       ],
       "scalingAllowed": false,
-      "originalText": "G122: Venison Pork Pepperoni\nG123: Cook 165 degrees internal then dry for 8 hours and chill to 40 immediately.\nG124: Total Weight\nH124: 10.0\nH126: lbs\nI126: oz's.\nG127: pork butt\nH127: 4.7\nI127: 75.2\nJ127: 0.47\nG128: Venison\nH128: 4.8\nI128: 76.8\nJ128: 0.48\nG129: Granulated Garlic\nH129: 0.013\nI129: 0.208\nJ129: 0.0013\nG130: Coarse Black Pepper\nH130: 0.01\nI130: 0.16\nJ130: 0.001\nG131: Salt\nH131: 0.19\nI131: 3.04\nJ131: 0.019\nG132: Ground Fennel\nH132: 0.007\nI132: 0.112\nJ132: 0.0007\nG133: Ground Anise\nH133: 0.007\nI133: 0.112\nJ133: 0.0007\nG134: Sugar\nH134: 0.075\nI134: 1.2\nJ134: 0.0075\nG135: Paprika\nH135: 0.11\nI135: 1.76\nJ135: 0.011\nG136: Red Wine\nH136: 0.1\nI136: 1.6\nJ136: 0.01\nG137: Erythorbate\nH137: 0.01\nI137: 0.16\nJ137: 0.001\nG138: Cure\nH138: 0.015\nI138: 0.24\nJ138: 0.0015\nG139: Citric Acid\nH139: 0.00235\nI139: 0.0376\nJ139: 0.0005\nG140: Cayenne Pepper\nH140: 0.0072\nI140: 0.1152\nJ140: 0.0015\nG144: Total\nH144: 10.022"
+      "originalText": "G122: Venison Pork Pepperoni\nG123: Cook 165 degrees internal then dry for 8 hours and chill to 40 immediately.\nG124: Total Weight\nH124: 10.0\nH126: lbs\nI126: oz's.\nG127: pork butt\nH127: 4.7\nI127: 75.2\nJ127: 0.47\nG128: Venison\nH128: 4.8\nI128: 76.8\nJ128: 0.48\nG129: Granulated Garlic\nH129: 0.013\nI129: 0.208\nJ129: 0.0013\nG130: Coarse Black Pepper\nH130: 0.01\nI130: 0.16\nJ130: 0.001\nG131: Salt\nH131: 0.19\nI131: 3.04\nJ131: 0.019\nG132: Ground Fennel\nH132: 0.007\nI132: 0.112\nJ132: 0.0007\nG133: Ground Anise\nH133: 0.007\nI133: 0.112\nJ133: 0.0007\nG134: Sugar\nH134: 0.075\nI134: 1.2\nJ134: 0.0075\nG135: Paprika\nH135: 0.11\nI135: 1.76\nJ135: 0.011\nG136: Red Wine\nH136: 0.1\nI136: 1.6\nJ136: 0.01\nG137: Erythorbate\nH137: 0.01\nI137: 0.16\nJ137: 0.001\nG138: Cure\nH138: 0.015\nI138: 0.24\nJ138: 0.0015\nG139: Citric Acid\nH139: 0.00235\nI139: 0.0376\nJ139: 0.0005\nG140: Cayenne Pepper\nH140: 0.0072\nI140: 0.1152\nJ140: 0.0015\nG144: Total\nH144: 10.022",
+      "bigTNote": "Venison and pork place this formula in the game processing collection, while fennel, anise, paprika and red wine distinguish its ingredient list."
     },
     {
       "id": "venison-pork-salami-sliced-lunchmeat",
@@ -8098,7 +8158,8 @@
         "Contains a curing ingredient. Automatic scaling is disabled; the workbook quantities and curing details require review before use."
       ],
       "scalingAllowed": false,
-      "originalText": "G96: Venison Pork Salami Sliced Lunchmeat\nG97: Cook 165 degrees internal and chill to 40 immediately.\nG98: Total Weight\nH98: 10.0\nH100: lbs\nI100: oz's.\nG101: Pork butt\nH101: 4.7\nI101: 75.2\nJ101: 0.47\nG102: Venison\nH102: 4.8\nI102: 76.8\nJ102: 0.48\nG103: Granulated Garlic\nH103: 0.016\nI103: 0.256\nJ103: 0.0016\nG104: Course Black Pepper\nH104: 0.035\nI104: 0.56\nJ104: 0.0035\nG105: Salt\nH105: 0.185\nI105: 2.96\nJ105: 0.0185\nG106: Ground Coriander\nH106: 0.007\nI106: 0.112\nJ106: 0.0007\nG107: Whole Mustard Seed\nH107: 0.011\nI107: 0.176\nJ107: 0.0011\nK107: Let sit in water for\nG108: Sugar\nH108: 0.05\nI108: 0.8\nJ108: 0.005\nK108: an hour or two before mixing in.\nG109: Water\nH109: 0.3\nI109: 4.8\nJ109: 0.03\nG110: Ground Nutmeg\nH110: 0.007\nI110: 0.112\nJ110: 0.0007\nG111: Onion Powder\nH111: 0.007\nI111: 0.112\nJ111: 0.0007\nG112: Cure\nH112: 0.015\nI112: 0.24\nJ112: 0.0015\nG116: Total\nH116: 10.118"
+      "originalText": "G96: Venison Pork Salami Sliced Lunchmeat\nG97: Cook 165 degrees internal and chill to 40 immediately.\nG98: Total Weight\nH98: 10.0\nH100: lbs\nI100: oz's.\nG101: Pork butt\nH101: 4.7\nI101: 75.2\nJ101: 0.47\nG102: Venison\nH102: 4.8\nI102: 76.8\nJ102: 0.48\nG103: Granulated Garlic\nH103: 0.016\nI103: 0.256\nJ103: 0.0016\nG104: Course Black Pepper\nH104: 0.035\nI104: 0.56\nJ104: 0.0035\nG105: Salt\nH105: 0.185\nI105: 2.96\nJ105: 0.0185\nG106: Ground Coriander\nH106: 0.007\nI106: 0.112\nJ106: 0.0007\nG107: Whole Mustard Seed\nH107: 0.011\nI107: 0.176\nJ107: 0.0011\nK107: Let sit in water for\nG108: Sugar\nH108: 0.05\nI108: 0.8\nJ108: 0.005\nK108: an hour or two before mixing in.\nG109: Water\nH109: 0.3\nI109: 4.8\nJ109: 0.03\nG110: Ground Nutmeg\nH110: 0.007\nI110: 0.112\nJ110: 0.0007\nG111: Onion Powder\nH111: 0.007\nI111: 0.112\nJ111: 0.0007\nG112: Cure\nH112: 0.015\nI112: 0.24\nJ112: 0.0015\nG116: Total\nH116: 10.118",
+      "bigTNote": "This venison and pork formula extends the game processing theme to sliced lunchmeat, with mustard seed, coriander and garlic among the seasonings."
     },
     {
       "id": "venison-pork-spicy",
@@ -8272,7 +8333,8 @@
         "Contains a curing ingredient. Automatic scaling is disabled; the workbook quantities and curing details require review before use."
       ],
       "scalingAllowed": false,
-      "originalText": "A26: Venison Pork Spicy\nA28: Total Weight\nB28: 10.0\nB30: lbs\nC30: oz's.\nA31: Pork butt\nB31: 4.8\nC31: 76.8\nD31: 0.48\nA32: Venison\nB32: 4.8\nC32: 76.8\nD32: 0.48\nA33: Crushed Red Pepper\nB33: 0.03\nC33: 0.48\nD33: 0.003\nA34: Garlic\nB34: 0.015\nC34: 0.24\nD34: 0.0015\nA35: Black Pepper\nB35: 0.04\nC35: 0.64\nD35: 0.004\nA36: Salt\nB36: 0.18\nC36: 2.88\nD36: 0.018\nA37: Paprika\nB37: 0.012\nC37: 0.192\nD37: 0.0012\nA38: Cayenne Pepper\nB38: 0.011\nC38: 0.176\nD38: 0.0011\nA39: Sugar\nB39: 0.05\nC39: 0.8\nD39: 0.005\nA40: Water\nB40: 0.25\nC40: 4\nD40: 0.025\nA41: Cure (If Smoked)\nB41: 0.015\nC41: 0.24\nD41: 0.0015\nA43: Total\nB43: 10.203"
+      "originalText": "A26: Venison Pork Spicy\nA28: Total Weight\nB28: 10.0\nB30: lbs\nC30: oz's.\nA31: Pork butt\nB31: 4.8\nC31: 76.8\nD31: 0.48\nA32: Venison\nB32: 4.8\nC32: 76.8\nD32: 0.48\nA33: Crushed Red Pepper\nB33: 0.03\nC33: 0.48\nD33: 0.003\nA34: Garlic\nB34: 0.015\nC34: 0.24\nD34: 0.0015\nA35: Black Pepper\nB35: 0.04\nC35: 0.64\nD35: 0.004\nA36: Salt\nB36: 0.18\nC36: 2.88\nD36: 0.018\nA37: Paprika\nB37: 0.012\nC37: 0.192\nD37: 0.0012\nA38: Cayenne Pepper\nB38: 0.011\nC38: 0.176\nD38: 0.0011\nA39: Sugar\nB39: 0.05\nC39: 0.8\nD39: 0.005\nA40: Water\nB40: 0.25\nC40: 4\nD40: 0.025\nA41: Cure (If Smoked)\nB41: 0.015\nC41: 0.24\nD41: 0.0015\nA43: Total\nB43: 10.203",
+      "bigTNote": "Pork and venison connect this formula to Big T’s interest in his own harvest. Crushed red pepper and cayenne provide its spicy direction."
     },
     {
       "id": "bacon-cheddar-venison-burgers",
@@ -8341,7 +8403,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "G149: Bacon Cheddar Venison Burgers\nG150: Season with your favorite Burger Seasoning- Grind all through 1/4\" plate twice\nG152: Total Weight\nH152: 10.0\nH154: lbs\nI154: oz's.\nG155: Venison\nH155: 8.7\nI155: 139.2\nJ155: 0.87\nG156: Bacon\nH156: 0.7\nI156: 11.2\nJ156: 0.07\nG157: 1/4\" Diced Cheddar\nH157: 0.6\nI157: 9.6\nJ157: 0.06\nH159: 10"
+      "originalText": "G149: Bacon Cheddar Venison Burgers\nG150: Season with your favorite Burger Seasoning- Grind all through 1/4\" plate twice\nG152: Total Weight\nH152: 10.0\nH154: lbs\nI154: oz's.\nG155: Venison\nH155: 8.7\nI155: 139.2\nJ155: 0.87\nG156: Bacon\nH156: 0.7\nI156: 11.2\nJ156: 0.07\nG157: 1/4\" Diced Cheddar\nH157: 0.6\nI157: 9.6\nJ157: 0.06\nH159: 10",
+      "bigTNote": "Venison, bacon and cheddar connect game processing to a familiar burger, making this an approachable format for sharing within the collection."
     },
     {
       "id": "bacon-venison-burgers",
@@ -8397,7 +8460,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "A148: Bacon Venison Burgers\nA149: Season with your favorite Burger Seasoning- Grind all through 1/4\" plate twice\nA151: Total Weight\nB151: 10.0\nB153: lbs\nC153: oz's.\nA154: Venison\nB154: 9.3\nC154: 148.8\nD154: 0.93\nA155: Bacon\nB155: 0.7\nC155: 11.2\nD155: 0.07\nB157: 10"
+      "originalText": "A148: Bacon Venison Burgers\nA149: Season with your favorite Burger Seasoning- Grind all through 1/4\" plate twice\nA151: Total Weight\nB151: 10.0\nB153: lbs\nC153: oz's.\nA154: Venison\nB154: 9.3\nC154: 148.8\nD154: 0.93\nA155: Bacon\nB155: 0.7\nC155: 11.2\nD155: 0.07\nB157: 10",
+      "bigTNote": "This blend of venison and bacon connects Big T’s interest in game processing with burger making, before the source’s seasoning step."
     },
     {
       "id": "blue-cheese-venison-beef-burgers",
@@ -8466,7 +8530,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "A176: Blue Cheese Venison/Beef Burgers\nA177: Season with your favorite Burger Seasoning- Grind all through 1/4\" plate twice\nA179: Total Weight\nB179: 10.0\nB181: lbs\nC181: oz's.\nA182: Venison\nB182: 4.65\nC182: 74.4\nD182: 0.465\nA183: Beef Chuck\nB183: 4.65\nC183: 74.4\nD183: 0.465\nA184: Blue Cheese Crumbles\nB184: 0.7\nC184: 11.2\nD184: 0.07\nB187: 10"
+      "originalText": "A176: Blue Cheese Venison/Beef Burgers\nA177: Season with your favorite Burger Seasoning- Grind all through 1/4\" plate twice\nA179: Total Weight\nB179: 10.0\nB181: lbs\nC181: oz's.\nA182: Venison\nB182: 4.65\nC182: 74.4\nD182: 0.465\nA183: Beef Chuck\nB183: 4.65\nC183: 74.4\nD183: 0.465\nA184: Blue Cheese Crumbles\nB184: 0.7\nC184: 11.2\nD184: 0.07\nB187: 10",
+      "bigTNote": "Venison and beef chuck make the game connection here; blue cheese adds a distinct ingredient choice to the collection’s burger variations."
     },
     {
       "id": "jalapeno-cheddar-venison-beef-burgers",
@@ -8562,7 +8627,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "A161: Jalapeno Cheddar Venison/Beef Burgers\nA162: Season with your favorite Burger Seasoning- Grind all through 1/4\" plate twice\nA164: Total Weight\nB164: 10.0\nB166: lbs\nC166: oz's.\nA167: Venison\nB167: 4.6\nC167: 73.6\nD167: 0.46\nA168: Beef Chuck\nB168: 4.65\nC168: 74.4\nD168: 0.465\nA169: 1/4\" Diced Cheddar\nB169: 0.6\nC169: 9.6\nD169: 0.06\nA170: Fresh Jalapeno Diced\nB170: 0.075\nC170: 1.2\nD170: 0.0075\nA171: Fresh Onion Diced\nB171: 0.075\nC171: 1.2\nD171: 0.0075\nB173: 10"
+      "originalText": "A161: Jalapeno Cheddar Venison/Beef Burgers\nA162: Season with your favorite Burger Seasoning- Grind all through 1/4\" plate twice\nA164: Total Weight\nB164: 10.0\nB166: lbs\nC166: oz's.\nA167: Venison\nB167: 4.6\nC167: 73.6\nD167: 0.46\nA168: Beef Chuck\nB168: 4.65\nC168: 74.4\nD168: 0.465\nA169: 1/4\" Diced Cheddar\nB169: 0.6\nC169: 9.6\nD169: 0.06\nA170: Fresh Jalapeno Diced\nB170: 0.075\nC170: 1.2\nD170: 0.0075\nA171: Fresh Onion Diced\nB171: 0.075\nC171: 1.2\nD171: 0.0075\nB173: 10",
+      "bigTNote": "Jalapeño, cheddar and onion add variety to a venison and beef burger, connecting the harvest-processing theme with food prepared for the table."
     },
     {
       "id": "mushroom-swiss-venison-beef-burgers",
@@ -8644,7 +8710,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "G162: Mushroom Swiss Venison/Beef Burgers\nG163: Season with your favorite Burger Seasoning- Grind all through 1/4\" plate twice\nG165: Total Weight\nH165: 10.0\nH167: lbs\nI167: oz's.\nG168: Venison\nH168: 4.5\nI168: 72\nJ168: 0.45\nG169: Beef Chuck\nH169: 4.5\nI169: 72\nJ169: 0.45\nG170: 1/4\" Diced Swiss or Mozzarella\nH170: 0.7\nI170: 11.2\nJ170: 0.07\nG171: Canned Mushroom Slices\nH171: 0.3\nI171: 4.8\nJ171: 0.03\nH174: 10"
+      "originalText": "G162: Mushroom Swiss Venison/Beef Burgers\nG163: Season with your favorite Burger Seasoning- Grind all through 1/4\" plate twice\nG165: Total Weight\nH165: 10.0\nH167: lbs\nI167: oz's.\nG168: Venison\nH168: 4.5\nI168: 72\nJ168: 0.45\nG169: Beef Chuck\nH169: 4.5\nI169: 72\nJ169: 0.45\nG170: 1/4\" Diced Swiss or Mozzarella\nH170: 0.7\nI170: 11.2\nJ170: 0.07\nG171: Canned Mushroom Slices\nH171: 0.3\nI171: 4.8\nJ171: 0.03\nH174: 10",
+      "bigTNote": "Venison, beef chuck, mushrooms and cheese turn the game processing theme toward another familiar burger combination for a meal to share."
     },
     {
       "id": "roasted-garlic-and-feta-cheese-venison-beef-burgers",
@@ -8726,7 +8793,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "G177: Roasted Garlic and Feta cheese Venison/Beef Burgers\nG178: Season with your favorite Burger Seasoning- Grind all through 1/4\" plate twice\nG180: Total Weight\nH180: 10.0\nH182: lbs\nI182: oz's.\nG183: Venison\nH183: 4.6\nI183: 73.6\nJ183: 0.46\nG184: Beef Chuck\nH184: 4.65\nI184: 74.4\nJ184: 0.465\nG185: Feta Cheese\nH185: 0.7\nI185: 11.2\nJ185: 0.07\nG186: Roasted Garlic Pods\nH186: 0.05\nI186: 0.8\nJ186: 0.005\nH189: 10"
+      "originalText": "G177: Roasted Garlic and Feta cheese Venison/Beef Burgers\nG178: Season with your favorite Burger Seasoning- Grind all through 1/4\" plate twice\nG180: Total Weight\nH180: 10.0\nH182: lbs\nI182: oz's.\nG183: Venison\nH183: 4.6\nI183: 73.6\nJ183: 0.46\nG184: Beef Chuck\nH184: 4.65\nI184: 74.4\nJ184: 0.465\nG185: Feta Cheese\nH185: 0.7\nI185: 11.2\nJ185: 0.07\nG186: Roasted Garlic Pods\nH186: 0.05\nI186: 0.8\nJ186: 0.005\nH189: 10",
+      "bigTNote": "Roasted garlic and feta distinguish this venison and beef burger, showing another ingredient direction for the collection’s patties made with game."
     },
     {
       "id": "mango-bbq-sauce",
@@ -8840,7 +8908,8 @@
         "The directions mention salt and pepper without quantities; neither appears in the ingredient list."
       ],
       "scalingAllowed": true,
-      "originalText": "B1: Mango BBQ Sauce\nB2: 1/2 red onion, chopped\nB3: 2 garlic cloves, chopped\nB4: 2 ripe mangoes, peeled and diced\nB5: 2 T. of olive oil\nB6: 15 oz. can of tomato sauce\nB7: 1/2 cup plus 2 T. of brown sugar\nB8: 1/4 cup of apple cider vinegar\nB9: 1 T. chili paste {can be found in asian food aisle}\nB12: Put olive oil in a large skillet at medium high heat, toss in the red onion, garlic cloves, and mango. Saute until mango is slightly browned and onions are translucent, about 4-5 minutes.\nB13: Add tomato sauce, brown sugar, apple cider vinegar, chili paste {you can find this in the Asian food aisle in the grocery store}, and salt and pepper.\nB14: Bring to a soft boil.\nB15: Put all ingredients in a blender and blend until smooth."
+      "originalText": "B1: Mango BBQ Sauce\nB2: 1/2 red onion, chopped\nB3: 2 garlic cloves, chopped\nB4: 2 ripe mangoes, peeled and diced\nB5: 2 T. of olive oil\nB6: 15 oz. can of tomato sauce\nB7: 1/2 cup plus 2 T. of brown sugar\nB8: 1/4 cup of apple cider vinegar\nB9: 1 T. chili paste {can be found in asian food aisle}\nB12: Put olive oil in a large skillet at medium high heat, toss in the red onion, garlic cloves, and mango. Saute until mango is slightly browned and onions are translucent, about 4-5 minutes.\nB13: Add tomato sauce, brown sugar, apple cider vinegar, chili paste {you can find this in the Asian food aisle in the grocery store}, and salt and pepper.\nB14: Bring to a soft boil.\nB15: Put all ingredients in a blender and blend until smooth.",
+      "bigTNote": "Mango, tomato and brown sugar bring fruit and sweetness to this sauce, with vinegar and chili paste adding contrast at the BBQ table."
     },
     {
       "id": "maple-bourbon-glaze",
@@ -8942,7 +9011,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "B1: Ham\nB2: Maple-Bourbon Glaze\nB3: 3/4 cup pure maple syrup\nB4: 1/4 cup bourbon\nB5: 3 tablespoons Dijon mustard\nB6: 2 tablespoons butter, preferably unsalted\nB7: 2 tablespoons minced onion\nB8: 1 tablespoon cider vinegar\nB9: 1 teaspoon freshly ground black pepper (mixed and heated in the microwave for about 1.5 minutes to melt the butter, then mixed again - just with a spoon used for mixing.)"
+      "originalText": "B1: Ham\nB2: Maple-Bourbon Glaze\nB3: 3/4 cup pure maple syrup\nB4: 1/4 cup bourbon\nB5: 3 tablespoons Dijon mustard\nB6: 2 tablespoons butter, preferably unsalted\nB7: 2 tablespoons minced onion\nB8: 1 tablespoon cider vinegar\nB9: 1 teaspoon freshly ground black pepper (mixed and heated in the microwave for about 1.5 minutes to melt the butter, then mixed again - just with a spoon used for mixing.)",
+      "bigTNote": "Maple syrup, bourbon and Dijon give this ham glaze its direction—a finishing recipe for a larger dish that can be shared."
     },
     {
       "id": "pork-loin-glaze",
@@ -9023,7 +9093,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "A2: Pork Loin Glaze\nA3: 1/2 Cup of Honey\nA4: 1/4 Cup Brown Sugar\nA5: 3 Tbl Bourbon\nA6: 1 Tbl Dijon Mustard\nA7: 1/4 Cup Orange Juice\nA9: Simmer for 5 min\nA10: Set Aside for 5 min"
+      "originalText": "A2: Pork Loin Glaze\nA3: 1/2 Cup of Honey\nA4: 1/4 Cup Brown Sugar\nA5: 3 Tbl Bourbon\nA6: 1 Tbl Dijon Mustard\nA7: 1/4 Cup Orange Juice\nA9: Simmer for 5 min\nA10: Set Aside for 5 min",
+      "bigTNote": "Honey, brown sugar and orange juice meet bourbon and Dijon in this pork loin glaze, adding a finishing touch to the meat collection."
     },
     {
       "id": "raspberry-chipotle-bbq-sauce",
@@ -9149,7 +9220,8 @@
       "tags": [],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "A1: Raspberry Chipotle BBQ Sauce\nA2: 1/2 cup of red onion, chopped\nA3: 2 garlic cloves, minced\nA4: 2 tablespoons of olive oil\nA5: 1 teaspoon of liquid smoke\nA6: 1/4 cup + 2 tablespoons of brown sugar\nA7: 1/4 cup of apple cider vinegar\nA8: 1 1/2 large chipotle peppers, minced {from can of chipotle peppers in adobe sauce}\nA9: 2 pints of raspberries\nA10: 15 oz. tomato sauce\nA12: Heat a large saute pan to medium high heat, add olive oil and red onion.\nA13: Saute for 2-3 minutes until onions are translucent, add garlic cloves and chipotle peppers. Stir and saute for 30 seconds.\nA14: Next add in tomato sauce, brown sugar, apple cider vinegar, and liquid smoke. Stir until brown sugar is dissolved.\nA15: Add in raspberries, stir and bring to a boil.\nA16: Once boiling reduce heat to simmer and simmer for 10-15 minutes. Stirring on occasion.\nA17: Remove from heat and let cool.\nA18: Store in airtight container in the refrigerator."
+      "originalText": "A1: Raspberry Chipotle BBQ Sauce\nA2: 1/2 cup of red onion, chopped\nA3: 2 garlic cloves, minced\nA4: 2 tablespoons of olive oil\nA5: 1 teaspoon of liquid smoke\nA6: 1/4 cup + 2 tablespoons of brown sugar\nA7: 1/4 cup of apple cider vinegar\nA8: 1 1/2 large chipotle peppers, minced {from can of chipotle peppers in adobe sauce}\nA9: 2 pints of raspberries\nA10: 15 oz. tomato sauce\nA12: Heat a large saute pan to medium high heat, add olive oil and red onion.\nA13: Saute for 2-3 minutes until onions are translucent, add garlic cloves and chipotle peppers. Stir and saute for 30 seconds.\nA14: Next add in tomato sauce, brown sugar, apple cider vinegar, and liquid smoke. Stir until brown sugar is dissolved.\nA15: Add in raspberries, stir and bring to a boil.\nA16: Once boiling reduce heat to simmer and simmer for 10-15 minutes. Stirring on occasion.\nA17: Remove from heat and let cool.\nA18: Store in airtight container in the refrigerator.",
+      "bigTNote": "Raspberries and chipotle bring fruit and chile to a tomato sauce, giving a shared BBQ meal another flavor to pass around."
     },
     {
       "id": "gordon-ramsay-steak-marinade",
@@ -9289,7 +9361,8 @@
       "tags": [],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "C1: 🥩 Gordon Ramsay Steak Marinade\nC3: Elevate your steak game with this Gordon Ramsay-inspired marinade! Perfect for infusing your beef with rich, deep flavors and ensuring a tender, mouthwatering result every time. Whether you're grilling outdoors or searing indoors, this marinade promises to transform your ordinary steak into a gourmet masterpiece, following the culinary excellence of Gordon Ramsay himself.\nC5: Ingredients:\nC7: 12 oz Steak\nC28: #steakmarinade #gordonramsay #homecooking #recipeoftheday #foodie #delicious #tasty #cookingtips #cheflife #kitchenhacks #meatlover #grilling #dinnerideas #culinaryarts\nD2: ⅓ cup Balsamic Vinegar\nD3: 2 tablespoons Soy Sauce\nD4: 3 tablespoons Olive Oil\nD5: 2 cloves Garlic, Minced\nD6: 2 sprigs Rosemary, Minced\nD7: ⅔ cup Dark Brown Sugar\nD8: ½ teaspoon Kosher Salt\nD9: ½ teaspoon Ground Black Pepper\nD10: ⅓ teaspoon Red Pepper Flakes\nD11: Directions:\nD13: Start by mincing two cloves of garlic and two sprigs of rosemary.\nD14: In a mixing bowl, combine ⅓ cup balsamic vinegar, 2 tablespoons soy sauce, ⅔ cup dark brown sugar, and 2 tablespoons olive oil.\nD15: To the bowl, add the minced rosemary, garlic, kosher salt, ground black pepper, and red pepper flakes. Mix well to combine.\nD16: Transfer the marinade into a zip-lock bag and shake until the ingredients are well mixed.\nD17: Place the steak in the bag, ensuring it's fully coated with the marinade. Refrigerate for six hours to infuse flavors.\nD18: After marinating, remove the steak from the bag, pat dry with a paper towel, and let it rest.\nD19: Heat a tablespoon of olive oil in a skillet over medium-high heat. Cook the steak to your desired doneness, allowing it to crisp up and release its flavors.\nD20: Prep Time: 6 hours 15 minutes | Cooking Time: 10 minutes | Total Time: 6 hours 25 minutes | Kcal: 650 kcal | Servings: 2 servings"
+      "originalText": "C1: 🥩 Gordon Ramsay Steak Marinade\nC3: Elevate your steak game with this Gordon Ramsay-inspired marinade! Perfect for infusing your beef with rich, deep flavors and ensuring a tender, mouthwatering result every time. Whether you're grilling outdoors or searing indoors, this marinade promises to transform your ordinary steak into a gourmet masterpiece, following the culinary excellence of Gordon Ramsay himself.\nC5: Ingredients:\nC7: 12 oz Steak\nC28: #steakmarinade #gordonramsay #homecooking #recipeoftheday #foodie #delicious #tasty #cookingtips #cheflife #kitchenhacks #meatlover #grilling #dinnerideas #culinaryarts\nD2: ⅓ cup Balsamic Vinegar\nD3: 2 tablespoons Soy Sauce\nD4: 3 tablespoons Olive Oil\nD5: 2 cloves Garlic, Minced\nD6: 2 sprigs Rosemary, Minced\nD7: ⅔ cup Dark Brown Sugar\nD8: ½ teaspoon Kosher Salt\nD9: ½ teaspoon Ground Black Pepper\nD10: ⅓ teaspoon Red Pepper Flakes\nD11: Directions:\nD13: Start by mincing two cloves of garlic and two sprigs of rosemary.\nD14: In a mixing bowl, combine ⅓ cup balsamic vinegar, 2 tablespoons soy sauce, ⅔ cup dark brown sugar, and 2 tablespoons olive oil.\nD15: To the bowl, add the minced rosemary, garlic, kosher salt, ground black pepper, and red pepper flakes. Mix well to combine.\nD16: Transfer the marinade into a zip-lock bag and shake until the ingredients are well mixed.\nD17: Place the steak in the bag, ensuring it's fully coated with the marinade. Refrigerate for six hours to infuse flavors.\nD18: After marinating, remove the steak from the bag, pat dry with a paper towel, and let it rest.\nD19: Heat a tablespoon of olive oil in a skillet over medium-high heat. Cook the steak to your desired doneness, allowing it to crisp up and release its flavors.\nD20: Prep Time: 6 hours 15 minutes | Cooking Time: 10 minutes | Total Time: 6 hours 25 minutes | Kcal: 650 kcal | Servings: 2 servings",
+      "bigTNote": "This collected steak marinade combines balsamic vinegar, soy sauce, brown sugar and rosemary, adding a preparation option before a meal reaches the table."
     },
     {
       "id": "puerto-rican-bbq-pork",
@@ -9444,7 +9517,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "B1: Puerto Rican BBQ pork\nB2: 6 Pound bone-in pork shoulder\nB3: 6 Clove garlic clove\nB4: 2 Tablespoon fresh oregano\nB5: 1 Small cilantro\nB6: 1 Tablespoon ground cumin\nB7: 4 lime, juiced\nB8: 2 orange, juiced\nB9: 1 Chipotle Peppers in Adobe Sauce\nB10: 1 Teaspoon Adobo Sauce\nB11: 3 Tablespoon salt\nB12: 1 Tablespoon black pepper\nB13: 1 Cup extra-virgin olive oil\nB15: Marinade shoulder overnight in refrigerator then smoke at 275 until 204 internal temp"
+      "originalText": "B1: Puerto Rican BBQ pork\nB2: 6 Pound bone-in pork shoulder\nB3: 6 Clove garlic clove\nB4: 2 Tablespoon fresh oregano\nB5: 1 Small cilantro\nB6: 1 Tablespoon ground cumin\nB7: 4 lime, juiced\nB8: 2 orange, juiced\nB9: 1 Chipotle Peppers in Adobe Sauce\nB10: 1 Teaspoon Adobo Sauce\nB11: 3 Tablespoon salt\nB12: 1 Tablespoon black pepper\nB13: 1 Cup extra-virgin olive oil\nB15: Marinade shoulder overnight in refrigerator then smoke at 275 until 204 internal temp",
+      "bigTNote": "Citrus, garlic, oregano and cilantro season a bone-in pork shoulder in this entry, linking a larger cut with the shared-meal side of the collection."
     },
     {
       "id": "rw-s-salmon-marinade",
@@ -9545,7 +9619,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "B1: RW's Salmon marinade 1 to 2 lbs\nB6: 1 teaspoon lemon pepper\nB7: 2 cloves garlic, minced\nB8: 1/4 teaspoon salt\nB9: 1/3 cup soy sauce\nB10: 1/3 cup brown sugar\nB11: 1/3 cup water\nB12: 1/4 cup olive oil"
+      "originalText": "B1: RW's Salmon marinade 1 to 2 lbs\nB6: 1 teaspoon lemon pepper\nB7: 2 cloves garlic, minced\nB8: 1/4 teaspoon salt\nB9: 1/3 cup soy sauce\nB10: 1/3 cup brown sugar\nB11: 1/3 cup water\nB12: 1/4 cup olive oil",
+      "bigTNote": "A salmon marinade connects the recipe box to Big T’s fishing interests, with soy sauce, brown sugar, garlic and lemon pepper shaping this entry."
     },
     {
       "id": "wet-brine-for-smoking-salmon",
@@ -9649,7 +9724,8 @@
         "The source does not specify a finished internal temperature for the fish."
       ],
       "scalingAllowed": true,
-      "originalText": "D1: Wet Brine for smoking\nD2: 1 Gallon H2O\n1 cup salt (use what you like, I used plain old mortons for the longest time)(I like to start with hottest tap water to get salt in solution)\n2 cups brown sugar\n4 Tablespoons Garlic Powder\n8 Tablespoons Onion Powder (I pretty much go with 6 and 6 now)\n1 cup Karo Corn Syrup (at this point I like to make sure everything is well mixed)(Maybe even let it set a bit and then come back and stir some more)\n2 ounces mapeline (now you have a foul black looking brew)\n\nTo this foul brew I add well trimmed filets. I like to make cuts down to the skin about 2\" apart to allow brine to penetrate well. Once you have your load of fish in , I add a trays of ice to keep cool, or even better half gallon frozen water bottles. I allow fish to brine 24 to 36 hours, so be sure to keep cool. I rinse the fish and set on racks. I have found the luhr Jensen drying racks to be a great help. I got mine at Outdoor Emporium.\nI generally like to sprinkle rather heavily with cracked black pepper, some with a bit of cayenne mixed in. Put it in the smoker (I have a big chief) and smoke it until its done. I like mine pretty dry so 12 hours + depending on the weather.\nD3: 1 Gallon H2O  (use what you like, I used plain old mortons for the longest time)(I like to start with hottest tap water to get salt in solution) 2 cups brown sugar 4 Tablespoons Garlic Powder 8 Tablespoons Onion Powder (I pretty much go with 6 and 6 now) 1 cup Karo Corn Syrup (at this point I like to make sure everything is well mixed)(Maybe even let it set a bit and then come back and stir some more) 2 ounces mapeline (now you have a foul black looking brew)\nD4: 1 Gallon warm water\nD5: 1 cup salt"
+      "originalText": "D1: Wet Brine for smoking\nD2: 1 Gallon H2O\n1 cup salt (use what you like, I used plain old mortons for the longest time)(I like to start with hottest tap water to get salt in solution)\n2 cups brown sugar\n4 Tablespoons Garlic Powder\n8 Tablespoons Onion Powder (I pretty much go with 6 and 6 now)\n1 cup Karo Corn Syrup (at this point I like to make sure everything is well mixed)(Maybe even let it set a bit and then come back and stir some more)\n2 ounces mapeline (now you have a foul black looking brew)\n\nTo this foul brew I add well trimmed filets. I like to make cuts down to the skin about 2\" apart to allow brine to penetrate well. Once you have your load of fish in , I add a trays of ice to keep cool, or even better half gallon frozen water bottles. I allow fish to brine 24 to 36 hours, so be sure to keep cool. I rinse the fish and set on racks. I have found the luhr Jensen drying racks to be a great help. I got mine at Outdoor Emporium.\nI generally like to sprinkle rather heavily with cracked black pepper, some with a bit of cayenne mixed in. Put it in the smoker (I have a big chief) and smoke it until its done. I like mine pretty dry so 12 hours + depending on the weather.\nD3: 1 Gallon H2O  (use what you like, I used plain old mortons for the longest time)(I like to start with hottest tap water to get salt in solution) 2 cups brown sugar 4 Tablespoons Garlic Powder 8 Tablespoons Onion Powder (I pretty much go with 6 and 6 now) 1 cup Karo Corn Syrup (at this point I like to make sure everything is well mixed)(Maybe even let it set a bit and then come back and stir some more) 2 ounces mapeline (now you have a foul black looking brew)\nD4: 1 Gallon warm water\nD5: 1 cup salt",
+      "bigTNote": "This salmon brine represents the fish preparation side of an outdoorsman’s recipe box, bringing together salt, brown sugar, garlic and onion."
     },
     {
       "id": "bourbon-bacon-pecan-salmon",
@@ -9821,7 +9897,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "C1: Bourbon Bacon Pecan Salmon\nC2: Ingredients:\nC3: For the Salmon:\nC5: 4 salmon fillets (6 oz each, skin-on or skinless)\nC6: Salt and pepper, to taste\nC7: 1 tbsp olive oil\nC8: For the Bourbon Bacon Pecan Sauce:\nC10: 4 slices bacon, chopped\nC11: 1/4 cup bourbon\nC12: 1/4 cup maple syrup (or honey)\nC13: 1 tbsp Dijon mustard\nC14: 1/2 cup pecans, chopped\nC15: 1 tbsp butter\nC16: 1/2 tsp garlic powder\nC17: 1/4 tsp smoked paprika (optional for extra smokiness)\nC18: Instructions:\nC19: Prepare the Salmon:\nC21: Preheat your oven to 375°F (190°C).\nC22: Season the salmon fillets with salt and pepper on both sides.\nC23: Heat olive oil in a large oven-safe skillet over medium-high heat. Once hot, add the salmon fillets skin-side down (if using skin) and sear for 2-3 minutes until golden brown.\nC24: Flip the salmon and cook for another 2-3 minutes on the other side.\nC25: Transfer the skillet to the preheated oven and bake for 6-8 minutes, or until the salmon is cooked through and flakes easily with a fork. Remove from the oven and set aside.\nC26: Make the Bourbon Bacon Pecan Sauce:\nC28: In a medium skillet, cook the chopped bacon over medium heat until crispy, about 5-7 minutes. Remove the bacon and set it aside, leaving the bacon fat in the skillet.\nC29: In the same skillet, add the bourbon and bring to a simmer. Cook for 2-3 minutes to reduce slightly.\nC30: Stir in the maple syrup, Dijon mustard, garlic powder, and smoked paprika (if using). Let the mixture simmer for an additional 3-4 minutes until thickened slightly.\nC31: Add the chopped pecans and butter to the sauce, stirring until the butter melts and the pecans become toasted, about 2-3 minutes.\nC32: Return the cooked bacon to the sauce and stir to combine. Taste and adjust seasoning if necessary (you can add more syrup for sweetness or more bourbon for a bolder flavor).\nC33: Serve:\nC35: Place each salmon fillet on a plate and spoon the bourbon bacon pecan sauce generously over the top.\nC36: Garnish with additional chopped pecans and a drizzle of any extra sauce from the pan."
+      "originalText": "C1: Bourbon Bacon Pecan Salmon\nC2: Ingredients:\nC3: For the Salmon:\nC5: 4 salmon fillets (6 oz each, skin-on or skinless)\nC6: Salt and pepper, to taste\nC7: 1 tbsp olive oil\nC8: For the Bourbon Bacon Pecan Sauce:\nC10: 4 slices bacon, chopped\nC11: 1/4 cup bourbon\nC12: 1/4 cup maple syrup (or honey)\nC13: 1 tbsp Dijon mustard\nC14: 1/2 cup pecans, chopped\nC15: 1 tbsp butter\nC16: 1/2 tsp garlic powder\nC17: 1/4 tsp smoked paprika (optional for extra smokiness)\nC18: Instructions:\nC19: Prepare the Salmon:\nC21: Preheat your oven to 375°F (190°C).\nC22: Season the salmon fillets with salt and pepper on both sides.\nC23: Heat olive oil in a large oven-safe skillet over medium-high heat. Once hot, add the salmon fillets skin-side down (if using skin) and sear for 2-3 minutes until golden brown.\nC24: Flip the salmon and cook for another 2-3 minutes on the other side.\nC25: Transfer the skillet to the preheated oven and bake for 6-8 minutes, or until the salmon is cooked through and flakes easily with a fork. Remove from the oven and set aside.\nC26: Make the Bourbon Bacon Pecan Sauce:\nC28: In a medium skillet, cook the chopped bacon over medium heat until crispy, about 5-7 minutes. Remove the bacon and set it aside, leaving the bacon fat in the skillet.\nC29: In the same skillet, add the bourbon and bring to a simmer. Cook for 2-3 minutes to reduce slightly.\nC30: Stir in the maple syrup, Dijon mustard, garlic powder, and smoked paprika (if using). Let the mixture simmer for an additional 3-4 minutes until thickened slightly.\nC31: Add the chopped pecans and butter to the sauce, stirring until the butter melts and the pecans become toasted, about 2-3 minutes.\nC32: Return the cooked bacon to the sauce and stir to combine. Taste and adjust seasoning if necessary (you can add more syrup for sweetness or more bourbon for a bolder flavor).\nC33: Serve:\nC35: Place each salmon fillet on a plate and spoon the bourbon bacon pecan sauce generously over the top.\nC36: Garnish with additional chopped pecans and a drizzle of any extra sauce from the pan.",
+      "bigTNote": "Salmon connects this dish to Big T’s fishing interests, while bourbon, bacon and pecans turn the focus toward a fish meal at the shared table."
     },
     {
       "id": "cajun-grilled-sausage-with-alabama-white-sauce",
@@ -10005,7 +10082,8 @@
       "tags": [],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "A1: Cajun Grilled Sausage with Alabama White Sauce\n\nA fiery and creamy combination! 🌶️\n\nIngredients:\n\nFor the Sausage:\n\n1 pound thick-cut smoked sausage\n1 tablespoon olive oil\n1 teaspoon Cajun seasoning\n1/2 teaspoon garlic powder\n1/4 teaspoon salt\n1/8 teaspoon black pepper\nFor the Alabama White Sauce:\n\n1/2 cup mayonnaise\n1/4 cup buttermilk\n1 tablespoon horseradish\n1 teaspoon Worcestershire sauce\n1/2 teaspoon hot sauce\n1/4 teaspoon garlic powder\n1/8 teaspoon black pepper\nInstructions:\n\nPrepare the Sausage: In a medium bowl, combine sausage with olive oil, Cajun seasoning, garlic powder, salt, and pepper. Toss to coat.\nGrill the Sausage: Grill sausage over medium-high heat for 8-10 minutes, or until cooked through and slightly charred.\nMake the Alabama White Sauce: In a small bowl, combine mayonnaise, buttermilk, horseradish, Worcestershire sauce, hot sauce, garlic powder, and black pepper. Mix well.\nServe: Serve grilled sausage with Alabama white sauce.\nTips:\n\nFor a spicier dish, add more Cajun seasoning or hot sauce.\nYou can also bake the sausage in a preheated oven at 400°F (200°C) for 20-25 minutes.\nServe with your favorite side dishes, such as coleslaw or potato salad."
+      "originalText": "A1: Cajun Grilled Sausage with Alabama White Sauce\n\nA fiery and creamy combination! 🌶️\n\nIngredients:\n\nFor the Sausage:\n\n1 pound thick-cut smoked sausage\n1 tablespoon olive oil\n1 teaspoon Cajun seasoning\n1/2 teaspoon garlic powder\n1/4 teaspoon salt\n1/8 teaspoon black pepper\nFor the Alabama White Sauce:\n\n1/2 cup mayonnaise\n1/4 cup buttermilk\n1 tablespoon horseradish\n1 teaspoon Worcestershire sauce\n1/2 teaspoon hot sauce\n1/4 teaspoon garlic powder\n1/8 teaspoon black pepper\nInstructions:\n\nPrepare the Sausage: In a medium bowl, combine sausage with olive oil, Cajun seasoning, garlic powder, salt, and pepper. Toss to coat.\nGrill the Sausage: Grill sausage over medium-high heat for 8-10 minutes, or until cooked through and slightly charred.\nMake the Alabama White Sauce: In a small bowl, combine mayonnaise, buttermilk, horseradish, Worcestershire sauce, hot sauce, garlic powder, and black pepper. Mix well.\nServe: Serve grilled sausage with Alabama white sauce.\nTips:\n\nFor a spicier dish, add more Cajun seasoning or hot sauce.\nYou can also bake the sausage in a preheated oven at 400°F (200°C) for 20-25 minutes.\nServe with your favorite side dishes, such as coleslaw or potato salad.",
+      "bigTNote": "Cajun seasoning flavors the sausage, while mayonnaise and buttermilk form the tangy sauce—two parts to bring together at the table."
     },
     {
       "id": "cajun-honey-butter-salmon",
@@ -10168,7 +10246,8 @@
         "The directions mention cream and oil without amounts. They use 1 tablespoon of the combined Cajun seasoning, while the ingredient list leaves Cajun seasoning unmeasured."
       ],
       "scalingAllowed": true,
-      "originalText": "A1: Cajun Honey Butter Salmon\nA3: Ingredients:\nA4: 4 salmon fillets, salted and seasoned to taste\nA5: Cajun seasoning\nA6: 2 tablespoons garlic powder\nA7: 2 tsp. Italian season\nA8: 2 tsp. Paprika (smoked paprika, if available)\nA9: 1 teaspoon cayenne pepper\nA10: 1 teaspoon onion powder\nA11: 1 teaspoon black pepper, cracked – or 1/2 teaspoon black pepper, finely ground\nA12: 1/4 teaspoon of salt\nA13: 1/2 tsp crush red pepper\nA14: How To Make Cajun Honey Butter Salmon\nA15: 6 tablespoons. Unsalted butter at room temperature  1/3 cup honey\nA16: Beat butter for 2 minutes using an electric hand mixer until light and fluffy. Blend honey and cream in a blender until smooth. 1 tablespoon combined Cajun seasoning (remaining seasoning can be kept for up to 3 months in an airtight container)\nA18: Using a paper towel, pat the salmon fillets dry on all sides. Season with salt and pepper to taste after rubbing it with oil.\nA20: Cook salmon for 6-8 minutes on each side on a preheated grill or grill pan, or until opaque and crusty.\nA22: Spread a generous amount of Cajun Honey Butter over each slice after turning off the grill (or stove if you’re using a grill pan).\nA24: Allow the butter to melt for 30 seconds, then spread it over the salmon using the back of a spoon. Turn it over and do the same on the other side."
+      "originalText": "A1: Cajun Honey Butter Salmon\nA3: Ingredients:\nA4: 4 salmon fillets, salted and seasoned to taste\nA5: Cajun seasoning\nA6: 2 tablespoons garlic powder\nA7: 2 tsp. Italian season\nA8: 2 tsp. Paprika (smoked paprika, if available)\nA9: 1 teaspoon cayenne pepper\nA10: 1 teaspoon onion powder\nA11: 1 teaspoon black pepper, cracked – or 1/2 teaspoon black pepper, finely ground\nA12: 1/4 teaspoon of salt\nA13: 1/2 tsp crush red pepper\nA14: How To Make Cajun Honey Butter Salmon\nA15: 6 tablespoons. Unsalted butter at room temperature  1/3 cup honey\nA16: Beat butter for 2 minutes using an electric hand mixer until light and fluffy. Blend honey and cream in a blender until smooth. 1 tablespoon combined Cajun seasoning (remaining seasoning can be kept for up to 3 months in an airtight container)\nA18: Using a paper towel, pat the salmon fillets dry on all sides. Season with salt and pepper to taste after rubbing it with oil.\nA20: Cook salmon for 6-8 minutes on each side on a preheated grill or grill pan, or until opaque and crusty.\nA22: Spread a generous amount of Cajun Honey Butter over each slice after turning off the grill (or stove if you’re using a grill pan).\nA24: Allow the butter to melt for 30 seconds, then spread it over the salmon using the back of a spoon. Turn it over and do the same on the other side.",
+      "bigTNote": "Salmon brings the fishing side of Big T’s interests into the collection, with honey butter and a peppery seasoning mixture adding another way to prepare fish."
     },
     {
       "id": "cheesy-tater-tot-meatloaf-casserole",
@@ -10298,7 +10377,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "A1: Cheesy Tater Tot Meatloaf Casserole\nA3: Ingredients:\nA4: - 1 cup ketchup\nA5: - 1 cup Sweet Baby Ray’s Hickory & Brown Sugar barbecue sauce\nA6: - 2 lbs lean ground beef\nA7: - 30 Ritz crackers, crushed\nA8: - 2 oz Lipton onion soup mix\nA9: - 2 large eggs\nA10: - 24 oz frozen tater tots\nA11: - 2 cups shredded mozzarella and cheddar cheese blend\nA12: - 1/4 cup real bacon bits\nA14: Directions:\nA15: 1. Preheat the oven to 350°F.\nA16: 2. In a small mixing bowl, combine the ketchup and Sweet Baby Ray’s barbecue sauce. Stir well and set aside.\nA17: 3. In a large mixing bowl, combine the ground beef, crushed Ritz crackers, Lipton onion soup mix, eggs, and 1/2 cup of the ketchup and barbecue sauce mixture. Mix thoroughly using your hands.\nA18: 4. Press the meatloaf mixture into a greased 9 x 13-inch baking dish. Spread the remaining ketchup and barbecue sauce mixture evenly over the meat.\nA19: 5. Arrange the frozen tater tots in a single layer on top of the sauce.\nA20: 6. Sprinkle the shredded cheese and bacon bits over the tater tots.\nA21: 7. Cover the dish with aluminum foil and bake for 35 minutes. Then, remove the foil and continue baking for another 40 minutes or until the ground beef is thoroughly cooked.\nA22: 8. Remove the casserole from the oven and let it rest for a few minutes before slicing."
+      "originalText": "A1: Cheesy Tater Tot Meatloaf Casserole\nA3: Ingredients:\nA4: - 1 cup ketchup\nA5: - 1 cup Sweet Baby Ray’s Hickory & Brown Sugar barbecue sauce\nA6: - 2 lbs lean ground beef\nA7: - 30 Ritz crackers, crushed\nA8: - 2 oz Lipton onion soup mix\nA9: - 2 large eggs\nA10: - 24 oz frozen tater tots\nA11: - 2 cups shredded mozzarella and cheddar cheese blend\nA12: - 1/4 cup real bacon bits\nA14: Directions:\nA15: 1. Preheat the oven to 350°F.\nA16: 2. In a small mixing bowl, combine the ketchup and Sweet Baby Ray’s barbecue sauce. Stir well and set aside.\nA17: 3. In a large mixing bowl, combine the ground beef, crushed Ritz crackers, Lipton onion soup mix, eggs, and 1/2 cup of the ketchup and barbecue sauce mixture. Mix thoroughly using your hands.\nA18: 4. Press the meatloaf mixture into a greased 9 x 13-inch baking dish. Spread the remaining ketchup and barbecue sauce mixture evenly over the meat.\nA19: 5. Arrange the frozen tater tots in a single layer on top of the sauce.\nA20: 6. Sprinkle the shredded cheese and bacon bits over the tater tots.\nA21: 7. Cover the dish with aluminum foil and bake for 35 minutes. Then, remove the foil and continue baking for another 40 minutes or until the ground beef is thoroughly cooked.\nA22: 8. Remove the casserole from the oven and let it rest for a few minutes before slicing.",
+      "bigTNote": "Ground beef, tater tots, cheese and BBQ sauce make this a substantial dish for sharing, fitting Big T’s interest in food and conversation."
     },
     {
       "id": "cuban-mojo-pork",
@@ -10443,7 +10523,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "A1: Cuban Mojo Pork\nA3: Ingredients:\nA4: - 4 lbs pork shoulder\nA5: - 1 bunch fresh cilantro\nA6: - 10 cloves garlic (minced)\nA7: - 1 tbsp dried oregano\nA8: - 1/2 cup fresh lime juice\nA9: - 1 tsp black pepper\nA10: - 1 tbsp salt\nA11: - 1/4 cup olive oil\nA12: - 2 tsp ground cumin\nA13: - 1 cup fresh orange juice\nA15: Instructions:\nA17: 1. Prepare the Marinade:\nA18: In a blender or food processor, combine the garlic, fresh cilantro, lime juice, orange juice, olive oil, cumin, oregano, salt, and black pepper. Blend until the mixture is smooth and well combined.\nA20: 2. Marinate the Pork:\nA21: Place the pork shoulder in a large resealable plastic bag or dish. Pour the marinade over the pork, making sure it is well coated. Seal the bag or cover the dish and refrigerate for at least 4 hours, preferably overnight, to allow the flavors to marinate.\nA23: 3. Preheat the Oven:\nA24: Preheat your oven to 300°F (150°C).\nA26: 4. Roast the Pork:\nA27: Transfer the marinated pork shoulder to a roasting pan. If desired, pour any remaining marinade over the top of the pork. Cover the pan with foil and roast for about 4 hours, or until the pork is tender and easily pulls apart.\nA29: 5. Shred the Pork:\nA30: Once the pork is done, remove it from the oven and let it rest for a few minutes. Use two forks to shred the pork into pieces.\nA32: 6. Serve:\nA33: Serve the shredded Cuban mojo pork with your choice of sides such as rice, black beans, or plantains. Garnish with additional fresh cilantro if desired.\nA35: Enjoy!"
+      "originalText": "A1: Cuban Mojo Pork\nA3: Ingredients:\nA4: - 4 lbs pork shoulder\nA5: - 1 bunch fresh cilantro\nA6: - 10 cloves garlic (minced)\nA7: - 1 tbsp dried oregano\nA8: - 1/2 cup fresh lime juice\nA9: - 1 tsp black pepper\nA10: - 1 tbsp salt\nA11: - 1/4 cup olive oil\nA12: - 2 tsp ground cumin\nA13: - 1 cup fresh orange juice\nA15: Instructions:\nA17: 1. Prepare the Marinade:\nA18: In a blender or food processor, combine the garlic, fresh cilantro, lime juice, orange juice, olive oil, cumin, oregano, salt, and black pepper. Blend until the mixture is smooth and well combined.\nA20: 2. Marinate the Pork:\nA21: Place the pork shoulder in a large resealable plastic bag or dish. Pour the marinade over the pork, making sure it is well coated. Seal the bag or cover the dish and refrigerate for at least 4 hours, preferably overnight, to allow the flavors to marinate.\nA23: 3. Preheat the Oven:\nA24: Preheat your oven to 300°F (150°C).\nA26: 4. Roast the Pork:\nA27: Transfer the marinated pork shoulder to a roasting pan. If desired, pour any remaining marinade over the top of the pork. Cover the pan with foil and roast for about 4 hours, or until the pork is tender and easily pulls apart.\nA29: 5. Shred the Pork:\nA30: Once the pork is done, remove it from the oven and let it rest for a few minutes. Use two forks to shred the pork into pieces.\nA32: 6. Serve:\nA33: Serve the shredded Cuban mojo pork with your choice of sides such as rice, black beans, or plantains. Garnish with additional fresh cilantro if desired.\nA35: Enjoy!",
+      "bigTNote": "Citrus, garlic and herbs season pork shoulder in this recipe, which the source finishes by shredding—a format well suited to passing food around."
     },
     {
       "id": "pork-belly-burnt-ends-rub-sauce",
@@ -10627,7 +10708,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "B2: 4-5 pounds pork belly\nB3: 2-3 tablespoons olive oil\nB4: RUB\nB5: 1/4 cup brown sugar\nB6: 2 tablespoons coarse Kosher salt (be sure to use the right kind of salt!)\nB7: 1 tablespoon freshly ground black pepper\nB8: 1 tablespoon paprika\nB9: 1 teaspoon chili powder\nB10: 1/2 teaspoon garlic powder\nB11: 1/2 teaspoon onion powder\nB12: 1/4 teaspoon cayenne pepper\nB13: SAUCE\nB14: 1/2 to 1 cup of your favorite BBQ sauce\nB15: 4 tbsp butter\nB16: 1/3 cup honey"
+      "originalText": "B2: 4-5 pounds pork belly\nB3: 2-3 tablespoons olive oil\nB4: RUB\nB5: 1/4 cup brown sugar\nB6: 2 tablespoons coarse Kosher salt (be sure to use the right kind of salt!)\nB7: 1 tablespoon freshly ground black pepper\nB8: 1 tablespoon paprika\nB9: 1 teaspoon chili powder\nB10: 1/2 teaspoon garlic powder\nB11: 1/2 teaspoon onion powder\nB12: 1/4 teaspoon cayenne pepper\nB13: SAUCE\nB14: 1/2 to 1 cup of your favorite BBQ sauce\nB15: 4 tbsp butter\nB16: 1/3 cup honey",
+      "bigTNote": "This pork belly entry brings a brown sugar rub together with BBQ sauce, butter and honey, adding another combination to the sharing table."
     },
     {
       "id": "pork-belly-burnt-ends-smoker-notes",
@@ -10719,7 +10801,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "A3: I cube belly and season with rub. Then smoke for 4-5 hours @ 225. Remove from smoker put in a foil pan, mix 1 stick of butter, 1cup of brown sugar, 1/2 cup honey, 1cup BBQ sauce, mix good and cover with foil and put back in smoker for 1 hour. Remove foil and let sauce mixture thicken for about 30 min. Enjoy!"
+      "originalText": "A3: I cube belly and season with rub. Then smoke for 4-5 hours @ 225. Remove from smoker put in a foil pan, mix 1 stick of butter, 1cup of brown sugar, 1/2 cup honey, 1cup BBQ sauce, mix good and cover with foil and put back in smoker for 1 hour. Remove foil and let sauce mixture thicken for about 30 min. Enjoy!",
+      "bigTNote": "These smoker notes pair pork belly with butter, brown sugar, honey and BBQ sauce, reflecting the preparation side of the recipe collection."
     },
     {
       "id": "sweet-and-sour-pork-tenderloin",
@@ -10838,7 +10921,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "A2: Sweet and Sour Pork Tenderloin 😋🍖🍖\nA3: Ingredients:\nA4: • 1 2-3 pound boneless pork tenderloin\nA5: • 1 cup of College Inn chicken or vegetable broth\nA6: • ½ cup of balsamic vinegar\nA7: • 1 tablespoon of Heinz Worcestershire sauce\nA8: • 1 tablespoon of La Choy soy sauce\nA9: • 1 tablespoon of Mountain Ridge honey\nA10: • ½ teaspoon of McCormick red pepper flakes\nA11: • 2 cloves of garlic, chopped\nA12: Instructions:\nA13: 1. I place the pork tenderloin into the insert of my slow cooker.\nA14: 2. In a 2-cup measuring cup, I mix together all the remaining ingredients.\nA15: 3. I pour the mixture over the pork and set the timer for my slow cooker (6-8 hours on Low).\nA16: 4. Once the pork tenderloin has cooked, I remove it from the slow cooker with tongs into a serving dish.\nA17: 5. I break apart the pork lightly with two forks and then ladle about ¼ – ½ cup of gravy over the pork tenderloin.\nA18: 6. I store the remaining gravy in an airtight container in the refrigerator for another use.\nA19: 7. As a quick tip, for a complete meal, I serve it with rice, steamed veggies, and my choice of fruit."
+      "originalText": "A2: Sweet and Sour Pork Tenderloin 😋🍖🍖\nA3: Ingredients:\nA4: • 1 2-3 pound boneless pork tenderloin\nA5: • 1 cup of College Inn chicken or vegetable broth\nA6: • ½ cup of balsamic vinegar\nA7: • 1 tablespoon of Heinz Worcestershire sauce\nA8: • 1 tablespoon of La Choy soy sauce\nA9: • 1 tablespoon of Mountain Ridge honey\nA10: • ½ teaspoon of McCormick red pepper flakes\nA11: • 2 cloves of garlic, chopped\nA12: Instructions:\nA13: 1. I place the pork tenderloin into the insert of my slow cooker.\nA14: 2. In a 2-cup measuring cup, I mix together all the remaining ingredients.\nA15: 3. I pour the mixture over the pork and set the timer for my slow cooker (6-8 hours on Low).\nA16: 4. Once the pork tenderloin has cooked, I remove it from the slow cooker with tongs into a serving dish.\nA17: 5. I break apart the pork lightly with two forks and then ladle about ¼ – ½ cup of gravy over the pork tenderloin.\nA18: 6. I store the remaining gravy in an airtight container in the refrigerator for another use.\nA19: 7. As a quick tip, for a complete meal, I serve it with rice, steamed veggies, and my choice of fruit.",
+      "bigTNote": "Balsamic vinegar, soy sauce and honey flavor this slow cooker pork recipe, giving the collection a meal option beyond the grill and smoker."
     },
     {
       "id": "apple-pie-baked-beans",
@@ -10995,7 +11079,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "A1: Apple Pie Baked Beans\nA2: 4 slices bacon, diced\nA3: 1 medium onion, chopped\nA4: 1/2 green bell pepper, chopped\nA5: 2 cans (27 ounce size) baked beans\nA6: 1/2 cup barbecue sauce\nA7: 1 pound cooked pork or beef, or crumbled cooked sausage\nA8: 1 can (15 ounce size) apple pie filling\nA9: 1/2 cup brown sugar\nA10: 2 tablespoons Worcestershire sauce\nA11: 2 tablespoons prepared mustard\nA12: 1 teaspoon cayenne pepper, or to taste\nA13: 1 teaspoon rib rub"
+      "originalText": "A1: Apple Pie Baked Beans\nA2: 4 slices bacon, diced\nA3: 1 medium onion, chopped\nA4: 1/2 green bell pepper, chopped\nA5: 2 cans (27 ounce size) baked beans\nA6: 1/2 cup barbecue sauce\nA7: 1 pound cooked pork or beef, or crumbled cooked sausage\nA8: 1 can (15 ounce size) apple pie filling\nA9: 1/2 cup brown sugar\nA10: 2 tablespoons Worcestershire sauce\nA11: 2 tablespoons prepared mustard\nA12: 1 teaspoon cayenne pepper, or to taste\nA13: 1 teaspoon rib rub",
+      "bigTNote": "Baked beans, apple pie filling, bacon and cooked meat make this a side with substance—a companion to the collection’s meals meant for sharing."
     },
     {
       "id": "butter-toasted-spiced-nuts",
@@ -11093,7 +11178,8 @@
       "tags": [],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "B2: Butter Toasted Spiced Nuts\nB3: 1/4 cup softened Kerrygold unsalted butter\nB4: 1 cup raw nuts ( variety of pecans and walnuts)\nB5: 1/8 teaspoon ground allspice\nB6: 1/8 teaspoon ground cinnamon\nB7: 1/8 teaspoon cayenne\nB8: 1 teaspoon light brown sugar\nB9: 1/2 teaspoon kosher salt\nB10: Melt butter in a medium pan over low heat. Add nuts, stirring frequently. Once nuts start to brown a little, add spices, sugar, and salt. Cook for another minute or until nuts are brown."
+      "originalText": "B2: Butter Toasted Spiced Nuts\nB3: 1/4 cup softened Kerrygold unsalted butter\nB4: 1 cup raw nuts ( variety of pecans and walnuts)\nB5: 1/8 teaspoon ground allspice\nB6: 1/8 teaspoon ground cinnamon\nB7: 1/8 teaspoon cayenne\nB8: 1 teaspoon light brown sugar\nB9: 1/2 teaspoon kosher salt\nB10: Melt butter in a medium pan over low heat. Add nuts, stirring frequently. Once nuts start to brown a little, add spices, sugar, and salt. Cook for another minute or until nuts are brown.",
+      "bigTNote": "Pecans and walnuts meet butter, warm spices and a little cayenne, adding a small dish to set out while food and conversation come together."
     },
     {
       "id": "mexican-street-corn-pasta-salad",
@@ -11276,7 +11362,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "B1: Mexican Street corn pasta salad\nB2: 3-4 ears corn on the cob\nB3: 1 tablespoon olive oil\nB4: 8 ounces rotini pasta\nB5: 1 red bell pepper, seeded and chopped\nB6: 3 green onions, chopped\nB7: 2-3 tablespoons seeded, chopped jalapeno\nB8: 1/2 cup Cotija or feta cheese, crumbled\nB9: 3 tablespoons grated Parmesan cheese\nB10: 2 tablespoons chopped fresh cilantro\nB11: Salt and pepper, to taste\nB12: 1/3 cup mayonaisse\nB13: 1/3 cup sour cream\nB14: 1 teaspoon chile powder\nB15: 2 tablespoons lime juice\nB18: Preheat outdoor grill for medium-high heat.\nB19: Brush corn with olive oil. Grill, turning frequently, until lightly charred all over, 10-15 minutes; cool and cut corn from the cob.\nB20: Cook pasta according to package directions. Rinse under cool water and drain.\nB21: In a large bowl, combine pasta, grilled corn, red pepper, green onions, jalapeno, cheeses and cilantro. In a small bowl, whisk together ingredients for dressing.\nB22: Stir dressing into pasta and corn mixture. Season with salt and pepper, to taste. Refrigerate until serving."
+      "originalText": "B1: Mexican Street corn pasta salad\nB2: 3-4 ears corn on the cob\nB3: 1 tablespoon olive oil\nB4: 8 ounces rotini pasta\nB5: 1 red bell pepper, seeded and chopped\nB6: 3 green onions, chopped\nB7: 2-3 tablespoons seeded, chopped jalapeno\nB8: 1/2 cup Cotija or feta cheese, crumbled\nB9: 3 tablespoons grated Parmesan cheese\nB10: 2 tablespoons chopped fresh cilantro\nB11: Salt and pepper, to taste\nB12: 1/3 cup mayonaisse\nB13: 1/3 cup sour cream\nB14: 1 teaspoon chile powder\nB15: 2 tablespoons lime juice\nB18: Preheat outdoor grill for medium-high heat.\nB19: Brush corn with olive oil. Grill, turning frequently, until lightly charred all over, 10-15 minutes; cool and cut corn from the cob.\nB20: Cook pasta according to package directions. Rinse under cool water and drain.\nB21: In a large bowl, combine pasta, grilled corn, red pepper, green onions, jalapeno, cheeses and cilantro. In a small bowl, whisk together ingredients for dressing.\nB22: Stir dressing into pasta and corn mixture. Season with salt and pepper, to taste. Refrigerate until serving.",
+      "bigTNote": "Grilled corn, pasta, peppers and cheese bring a cool side to the table, complementing the collection’s many meat recipes."
     },
     {
       "id": "protein-balls",
@@ -11388,7 +11475,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "A2: Ingredients\n\n1½ cups whole rolled oats\n\n1 cup creamy natural peanut butter\n\n¼ cup ground flaxseed\n\n¼ cup honey\n\n2 scoops protein powder, ¼ cup (I use 365 Organic Pea Protein, Unflavored)\n\n1 teaspoon vanilla extract\n\n6 tablespoons mini chocolate chips\n\nPinch sea salt"
+      "originalText": "A2: Ingredients\n\n1½ cups whole rolled oats\n\n1 cup creamy natural peanut butter\n\n¼ cup ground flaxseed\n\n¼ cup honey\n\n2 scoops protein powder, ¼ cup (I use 365 Organic Pea Protein, Unflavored)\n\n1 teaspoon vanilla extract\n\n6 tablespoons mini chocolate chips\n\nPinch sea salt",
+      "bigTNote": "Oats, peanut butter, honey and chocolate chips give this snack entry its base, extending the recipe box to food beyond the main meal."
     },
     {
       "id": "smoked-almonds",
@@ -11470,7 +11558,8 @@
       "tags": [],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "A2: Smoked Almonds\nA3: 1 Lb Raw Almonds\nA4: 2 Tbl Unsalted Butter\nA5: 1 Tbl Sea Salt (coarse)\nA6: 1 Tsp Garlic Powder\nA7: 1/2 - 3/4 tsp of Cayenne Pepper\nA9: Melt and mix all ingredients in a sauce pan\nA10: Add all raw almonds to create even coating\nA11: Prepare smoker to 250 Degrees\nA12: Spread coated almonds evenly on a perforated tray or screen\nA13: Smoke using Hickory for 2 hours\nA14: No water in the water pan"
+      "originalText": "A2: Smoked Almonds\nA3: 1 Lb Raw Almonds\nA4: 2 Tbl Unsalted Butter\nA5: 1 Tbl Sea Salt (coarse)\nA6: 1 Tsp Garlic Powder\nA7: 1/2 - 3/4 tsp of Cayenne Pepper\nA9: Melt and mix all ingredients in a sauce pan\nA10: Add all raw almonds to create even coating\nA11: Prepare smoker to 250 Degrees\nA12: Spread coated almonds evenly on a perforated tray or screen\nA13: Smoke using Hickory for 2 hours\nA14: No water in the water pan",
+      "bigTNote": "Almonds, butter, garlic and cayenne give the smoker a role beyond main dishes—a small bowl of food to share alongside conversation."
     },
     {
       "id": "smoked-queso",
@@ -11535,7 +11624,8 @@
       "tags": [],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "A1: 1 block of velveeta, 1 block of cream cheese, 1 roll breakfast sausage cooked and drained, 1 can rotel diced tomatoes with green chilies not drained.  Smoke 2 hours at 250."
+      "originalText": "A1: 1 block of velveeta, 1 block of cream cheese, 1 roll breakfast sausage cooked and drained, 1 can rotel diced tomatoes with green chilies not drained.  Smoke 2 hours at 250.",
+      "bigTNote": "Cheese, breakfast sausage and tomatoes with green chilies make this a communal dip, directly fitting Big T’s interest in sharing food and conversation."
     },
     {
       "id": "bacon-and-cheese",
@@ -11618,7 +11708,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "D1: Bacon and Cheese\nD2: 1 cup (2 sticks) unsalted butter, room temperature\nD3: 4 slices bacon, cooked and crumbled, drippings reserved\nD4: 2/3 cup sharp cheddar cheese, grated\nD5: 2 tablespoons chives, minced\nD6: salt and pepper, to taste\nA1: GENERAL INSTRUCTIONS\nA3: After bringing your butter to room temperature, use an electric mixer or rubber spatula to whip the butter until fully softened.\nA4: Use a spoon or rubber spatula to add your herbs and other fresh ingredients, so they don’t bruise or fall apart. Thoroughly mix any dry spices beforehand so they can be incorporated into the butter evenly.\nA5: Optional: once your everything is incorporated, roll your butter(s) in parchment paper and twist the ends to then freeze and slice for later, if you’re not serving it immediately. Or, place in an air-tight container and keep in the refrigerator."
+      "originalText": "D1: Bacon and Cheese\nD2: 1 cup (2 sticks) unsalted butter, room temperature\nD3: 4 slices bacon, cooked and crumbled, drippings reserved\nD4: 2/3 cup sharp cheddar cheese, grated\nD5: 2 tablespoons chives, minced\nD6: salt and pepper, to taste\nA1: GENERAL INSTRUCTIONS\nA3: After bringing your butter to room temperature, use an electric mixer or rubber spatula to whip the butter until fully softened.\nA4: Use a spoon or rubber spatula to add your herbs and other fresh ingredients, so they don’t bruise or fall apart. Thoroughly mix any dry spices beforehand so they can be incorporated into the butter evenly.\nA5: Optional: once your everything is incorporated, roll your butter(s) in parchment paper and twist the ends to then freeze and slice for later, if you’re not serving it immediately. Or, place in an air-tight container and keep in the refrigerator.",
+      "bigTNote": "Bacon, cheddar and chives turn butter into an extra topping for the table, adding another small way to share flavor with a meal."
     },
     {
       "id": "chili-and-lime",
@@ -11699,7 +11790,8 @@
       "tags": [],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "E1: Chili and lime\nE2: 1 cup (2 sticks) unsalted butter, room temperature\nE3: 1 lime, zested and juiced\nE4: 2 tablespoons cilantro, minced\nE5: 1/2 teaspoon red chili powder\nE6: 1/2 teaspoon salt\nA1: GENERAL INSTRUCTIONS\nA3: After bringing your butter to room temperature, use an electric mixer or rubber spatula to whip the butter until fully softened.\nA4: Use a spoon or rubber spatula to add your herbs and other fresh ingredients, so they don’t bruise or fall apart. Thoroughly mix any dry spices beforehand so they can be incorporated into the butter evenly.\nA5: Optional: once your everything is incorporated, roll your butter(s) in parchment paper and twist the ends to then freeze and slice for later, if you’re not serving it immediately. Or, place in an air-tight container and keep in the refrigerator."
+      "originalText": "E1: Chili and lime\nE2: 1 cup (2 sticks) unsalted butter, room temperature\nE3: 1 lime, zested and juiced\nE4: 2 tablespoons cilantro, minced\nE5: 1/2 teaspoon red chili powder\nE6: 1/2 teaspoon salt\nA1: GENERAL INSTRUCTIONS\nA3: After bringing your butter to room temperature, use an electric mixer or rubber spatula to whip the butter until fully softened.\nA4: Use a spoon or rubber spatula to add your herbs and other fresh ingredients, so they don’t bruise or fall apart. Thoroughly mix any dry spices beforehand so they can be incorporated into the butter evenly.\nA5: Optional: once your everything is incorporated, roll your butter(s) in parchment paper and twist the ends to then freeze and slice for later, if you’re not serving it immediately. Or, place in an air-tight container and keep in the refrigerator.",
+      "bigTNote": "Lime, cilantro and chili powder bring citrus and spice to this butter, offering another finishing option for food passed around the table."
     },
     {
       "id": "cowboy-butter",
@@ -11780,7 +11872,8 @@
       "tags": [],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "B1: Cowboy butter\nB2: 1 cup (2 sticks) salted butter, room temperature\nB3: 3 tablespoons fresh parsley, minced\nB4: 1 clove garlic, minced\nB5: 1/2 lemon, zested and juiced\nB6: 1 pinch red pepper flakes\nA1: GENERAL INSTRUCTIONS\nA3: After bringing your butter to room temperature, use an electric mixer or rubber spatula to whip the butter until fully softened.\nA4: Use a spoon or rubber spatula to add your herbs and other fresh ingredients, so they don’t bruise or fall apart. Thoroughly mix any dry spices beforehand so they can be incorporated into the butter evenly.\nA5: Optional: once your everything is incorporated, roll your butter(s) in parchment paper and twist the ends to then freeze and slice for later, if you’re not serving it immediately. Or, place in an air-tight container and keep in the refrigerator."
+      "originalText": "B1: Cowboy butter\nB2: 1 cup (2 sticks) salted butter, room temperature\nB3: 3 tablespoons fresh parsley, minced\nB4: 1 clove garlic, minced\nB5: 1/2 lemon, zested and juiced\nB6: 1 pinch red pepper flakes\nA1: GENERAL INSTRUCTIONS\nA3: After bringing your butter to room temperature, use an electric mixer or rubber spatula to whip the butter until fully softened.\nA4: Use a spoon or rubber spatula to add your herbs and other fresh ingredients, so they don’t bruise or fall apart. Thoroughly mix any dry spices beforehand so they can be incorporated into the butter evenly.\nA5: Optional: once your everything is incorporated, roll your butter(s) in parchment paper and twist the ends to then freeze and slice for later, if you’re not serving it immediately. Or, place in an air-tight container and keep in the refrigerator.",
+      "bigTNote": "Parsley, garlic, lemon and red pepper flakes give this butter its character—a small finishing recipe within the larger collection of shared meals."
     },
     {
       "id": "garlic-butter",
@@ -11850,7 +11943,8 @@
       "tags": [],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "G1: Garlic Butter\nG2: 1 Cup (2 Sticks) Salted butter\nG3: 4 Cloces of garlic minced\nG4: 2 Tbsp of finely chopped frrsh parsley\nG5: 2 Pinches of Salt\nA1: GENERAL INSTRUCTIONS\nA3: After bringing your butter to room temperature, use an electric mixer or rubber spatula to whip the butter until fully softened.\nA4: Use a spoon or rubber spatula to add your herbs and other fresh ingredients, so they don’t bruise or fall apart. Thoroughly mix any dry spices beforehand so they can be incorporated into the butter evenly.\nA5: Optional: once your everything is incorporated, roll your butter(s) in parchment paper and twist the ends to then freeze and slice for later, if you’re not serving it immediately. Or, place in an air-tight container and keep in the refrigerator."
+      "originalText": "G1: Garlic Butter\nG2: 1 Cup (2 Sticks) Salted butter\nG3: 4 Cloces of garlic minced\nG4: 2 Tbsp of finely chopped frrsh parsley\nG5: 2 Pinches of Salt\nA1: GENERAL INSTRUCTIONS\nA3: After bringing your butter to room temperature, use an electric mixer or rubber spatula to whip the butter until fully softened.\nA4: Use a spoon or rubber spatula to add your herbs and other fresh ingredients, so they don’t bruise or fall apart. Thoroughly mix any dry spices beforehand so they can be incorporated into the butter evenly.\nA5: Optional: once your everything is incorporated, roll your butter(s) in parchment paper and twist the ends to then freeze and slice for later, if you’re not serving it immediately. Or, place in an air-tight container and keep in the refrigerator.",
+      "bigTNote": "Garlic and parsley keep this butter focused and familiar, adding a finishing option alongside the collection’s meat, fish and side dishes."
     },
     {
       "id": "lemon-and-herb",
@@ -11932,7 +12026,8 @@
       "tags": [],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "C1: Lemon and Herb\nC2: 1 cup (2 sticks) unsalted butter, room temperature\nC3: 3 cloves garlic, crushed\nC4: 1 lemon, zested and juiced\nC5: 3 tablespoons fresh herbs (basil, dill and cilantro), minced, 1 tablespoon of each\nC6: salt and pepper, to taste\nA1: GENERAL INSTRUCTIONS\nA3: After bringing your butter to room temperature, use an electric mixer or rubber spatula to whip the butter until fully softened.\nA4: Use a spoon or rubber spatula to add your herbs and other fresh ingredients, so they don’t bruise or fall apart. Thoroughly mix any dry spices beforehand so they can be incorporated into the butter evenly.\nA5: Optional: once your everything is incorporated, roll your butter(s) in parchment paper and twist the ends to then freeze and slice for later, if you’re not serving it immediately. Or, place in an air-tight container and keep in the refrigerator."
+      "originalText": "C1: Lemon and Herb\nC2: 1 cup (2 sticks) unsalted butter, room temperature\nC3: 3 cloves garlic, crushed\nC4: 1 lemon, zested and juiced\nC5: 3 tablespoons fresh herbs (basil, dill and cilantro), minced, 1 tablespoon of each\nC6: salt and pepper, to taste\nA1: GENERAL INSTRUCTIONS\nA3: After bringing your butter to room temperature, use an electric mixer or rubber spatula to whip the butter until fully softened.\nA4: Use a spoon or rubber spatula to add your herbs and other fresh ingredients, so they don’t bruise or fall apart. Thoroughly mix any dry spices beforehand so they can be incorporated into the butter evenly.\nA5: Optional: once your everything is incorporated, roll your butter(s) in parchment paper and twist the ends to then freeze and slice for later, if you’re not serving it immediately. Or, place in an air-tight container and keep in the refrigerator.",
+      "bigTNote": "Lemon, garlic and fresh herbs brighten this butter, adding a flexible finishing recipe to the sharing side of the collection."
     },
     {
       "id": "maple-bacon",
@@ -12004,7 +12099,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "F1: Maple bacon\nF2: 1 cup (2 sticks) unsalted butter, room temperature\nF3: 2 tablespoons maple syrup\nF4: 2 slices bacon, cooked and crumbled, drippings reserved\nF5: 1 tablespoon bacon grease\nA1: GENERAL INSTRUCTIONS\nA3: After bringing your butter to room temperature, use an electric mixer or rubber spatula to whip the butter until fully softened.\nA4: Use a spoon or rubber spatula to add your herbs and other fresh ingredients, so they don’t bruise or fall apart. Thoroughly mix any dry spices beforehand so they can be incorporated into the butter evenly.\nA5: Optional: once your everything is incorporated, roll your butter(s) in parchment paper and twist the ends to then freeze and slice for later, if you’re not serving it immediately. Or, place in an air-tight container and keep in the refrigerator."
+      "originalText": "F1: Maple bacon\nF2: 1 cup (2 sticks) unsalted butter, room temperature\nF3: 2 tablespoons maple syrup\nF4: 2 slices bacon, cooked and crumbled, drippings reserved\nF5: 1 tablespoon bacon grease\nA1: GENERAL INSTRUCTIONS\nA3: After bringing your butter to room temperature, use an electric mixer or rubber spatula to whip the butter until fully softened.\nA4: Use a spoon or rubber spatula to add your herbs and other fresh ingredients, so they don’t bruise or fall apart. Thoroughly mix any dry spices beforehand so they can be incorporated into the butter evenly.\nA5: Optional: once your everything is incorporated, roll your butter(s) in parchment paper and twist the ends to then freeze and slice for later, if you’re not serving it immediately. Or, place in an air-tight container and keep in the refrigerator.",
+      "bigTNote": "Maple syrup and bacon give this butter a sweet and savory direction, broadening the choices for finishing food at the table."
     },
     {
       "id": "maple-bourbon-butter",
@@ -12086,7 +12182,8 @@
       ],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "H1: Maple Bourbon Butter\nH2: ▢4 tablespoon unsalted butter softened\nH3: ▢1 tablespoon bourbon\nH4: ▢1 teaspoon pure maple syrup\nH5: ▢1 teaspoon chili rub\nH6: ▢1 teaspoon fresh parsley finely chopped\nA1: GENERAL INSTRUCTIONS\nA3: After bringing your butter to room temperature, use an electric mixer or rubber spatula to whip the butter until fully softened.\nA4: Use a spoon or rubber spatula to add your herbs and other fresh ingredients, so they don’t bruise or fall apart. Thoroughly mix any dry spices beforehand so they can be incorporated into the butter evenly.\nA5: Optional: once your everything is incorporated, roll your butter(s) in parchment paper and twist the ends to then freeze and slice for later, if you’re not serving it immediately. Or, place in an air-tight container and keep in the refrigerator."
+      "originalText": "H1: Maple Bourbon Butter\nH2: ▢4 tablespoon unsalted butter softened\nH3: ▢1 tablespoon bourbon\nH4: ▢1 teaspoon pure maple syrup\nH5: ▢1 teaspoon chili rub\nH6: ▢1 teaspoon fresh parsley finely chopped\nA1: GENERAL INSTRUCTIONS\nA3: After bringing your butter to room temperature, use an electric mixer or rubber spatula to whip the butter until fully softened.\nA4: Use a spoon or rubber spatula to add your herbs and other fresh ingredients, so they don’t bruise or fall apart. Thoroughly mix any dry spices beforehand so they can be incorporated into the butter evenly.\nA5: Optional: once your everything is incorporated, roll your butter(s) in parchment paper and twist the ends to then freeze and slice for later, if you’re not serving it immediately. Or, place in an air-tight container and keep in the refrigerator.",
+      "bigTNote": "Bourbon, maple syrup and chili rub bring several BBQ flavors into a small butter recipe, another finishing touch to share with a meal."
     },
     {
       "id": "mcdonald-s-tartar",
@@ -12174,7 +12271,8 @@
       "tags": [],
       "warnings": [],
       "scalingAllowed": true,
-      "originalText": "A1: McDonald's tartar\nA2: ½ cup mayonnaise (such as Kraft®)\nA3: 3 ½ tablespoons dill pickle relish, divided\nA4: 2 tablespoons finely chopped onion, divided\nA5: 1 ½ teaspoons capers\nA6: ½ teaspoon dried parsley flakes\nA7: ½ teaspoon white sugar\nA9: Combine mayonnaise, 2 tablespoons relish, 1 tablespoon chopped onion, capers, parsley, and sugar in a blender until smooth.\nA10: Transfer sauce to a bowl; stir in remaining 1 1/2 tablespoons relish and 1 tablespoon chopped onion. Cover with plastic wrap and refrigerate for at least 2 hours before serving."
+      "originalText": "A1: McDonald's tartar\nA2: ½ cup mayonnaise (such as Kraft®)\nA3: 3 ½ tablespoons dill pickle relish, divided\nA4: 2 tablespoons finely chopped onion, divided\nA5: 1 ½ teaspoons capers\nA6: ½ teaspoon dried parsley flakes\nA7: ½ teaspoon white sugar\nA9: Combine mayonnaise, 2 tablespoons relish, 1 tablespoon chopped onion, capers, parsley, and sugar in a blender until smooth.\nA10: Transfer sauce to a bowl; stir in remaining 1 1/2 tablespoons relish and 1 tablespoon chopped onion. Cover with plastic wrap and refrigerate for at least 2 hours before serving.",
+      "bigTNote": "Dill relish, capers and onion give this collected tartar sauce its character. A condiment for fish connects naturally with Big T’s interest in fishing."
     },
     {
       "id": "praise-australian-mayonnaise",
@@ -12275,7 +12373,8 @@
         "The method uses a raw egg and an unspecified temperature unit (100 degrees). Original wording is retained and requires review before use."
       ],
       "scalingAllowed": true,
-      "originalText": "A1: Praise Australian Mayonnaise\nA3: 10 grams white vinegar\nA4: 5 grams malt vinegar\nA5: 1 teaspoon salt\nA6: 2-3 teaspoon Sugar (optional)\nA7: 1 egg\nA8: 200 grams sunflower oil\nA9: dash Lemon juice (to taste)\nA12: Warm oil and vinegars to 100 degrees then add raw egg and blend"
+      "originalText": "A1: Praise Australian Mayonnaise\nA3: 10 grams white vinegar\nA4: 5 grams malt vinegar\nA5: 1 teaspoon salt\nA6: 2-3 teaspoon Sugar (optional)\nA7: 1 egg\nA8: 200 grams sunflower oil\nA9: dash Lemon juice (to taste)\nA12: Warm oil and vinegars to 100 degrees then add raw egg and blend",
+      "bigTNote": "Vinegars, egg and sunflower oil make this a condiment entry, rounding out a recipe box that includes the smaller preparations alongside the main dishes."
     }
   ]
 }
